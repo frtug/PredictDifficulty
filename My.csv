@@ -1,0 +1,578 @@
+0,Termid,RegdNo,Course,Grade,CA_100,MTT_50,ETT_100,ETP_100,Course_Att,MHRDName,CA_1,CA_2,CA_3,CA_4,Height,Weight,ScholarType,Direction,Gender,Medium,CourseType,ProgramType
+134,218192,1128776,QPN110,O,90.0,37.0,93.0,,90.0,Bachelor of Technology (Automobile Engineering),87.0,3.0,0.0,0.0,180,83,Hostler,South,Female,Regional,Theory,UG
+135,218192,1128776,QPN111,A+,74.0,,,81.0,87.0,Bachelor of Technology (Automobile Engineering),19.0,52.0,3.0,0.0,180,83,Hostler,South,Female,Regional,Theory,UG
+136,218192,1128776,QPN112,O,69.0,42.0,85.0,,85.0,Bachelor of Technology (Automobile Engineering),30.0,25.0,9.0,5.0,180,83,Hostler,South,Female,Regional,Theory,UG
+137,218192,1128776,QPN113,A,89.0,38.0,73.0,,83.0,Bachelor of Technology (Automobile Engineering),18.0,41.0,7.0,23.0,180,83,Hostler,South,Female,Regional,Theory,UG
+138,218192,1128776,QPN114,A+,97.0,,,82.0,96.0,Bachelor of Technology (Automobile Engineering),63.0,2.0,26.0,6.0,180,83,Hostler,South,Female,Regional,Theory,UG
+139,218192,1128776,QPN115,A+,84.0,34.0,92.0,,86.0,Bachelor of Technology (Automobile Engineering),21.0,28.0,12.0,23.0,180,83,Hostler,South,Female,Regional,Theory,UG
+140,218192,1128776,QPN116,A,82.0,19.0,72.0,,83.0,Bachelor of Technology (Automobile Engineering),47.0,7.0,4.0,24.0,180,83,Hostler,South,Female,Regional,Theory,UG
+141,218192,1128776,QPN117,A+,85.0,48.0,75.0,,84.0,Bachelor of Technology (Automobile Engineering),37.0,29.0,10.0,9.0,180,83,Hostler,South,Female,Regional,Theory,UG
+142,218192,1128776,QPN118,B+,85.0,37.0,60.0,,97.0,Bachelor of Technology (Automobile Engineering),20.0,0.0,44.0,21.0,180,83,Hostler,South,Female,Regional,Theory,UG
+143,218192,1128776,QPN38,B,47.0,16.0,44.0,,86.0,Bachelor of Technology (Automobile Engineering),29.0,8.0,7.0,3.0,180,83,Hostler,South,Female,Regional,Theory,UG
+144,218192,1128776,QPN39,A,59.0,,,74.0,88.0,Bachelor of Technology (Automobile Engineering),23.0,25.0,3.0,8.0,180,83,Hostler,South,Female,Regional,Theory,UG
+955,318192,1359776,QPN110,B+,72.0,40.0,53.0,,85.0,Bachelor of Technology (Automobile Engineering),24.0,43.0,1.0,4.0,150,67,Hostler,West,Female,Hindi,Theory,UG
+956,318192,1359776,QPN111,A,61.0,,,69.0,87.0,Bachelor of Technology (Automobile Engineering),0.0,58.0,3.0,0.0,150,67,Hostler,West,Female,Hindi,Theory,UG
+957,318192,1359776,QPN112,A+,64.0,48.0,52.0,,82.0,Bachelor of Technology (Automobile Engineering),64.0,0.0,0.0,0.0,150,67,Hostler,West,Female,Hindi,Theory,UG
+958,318192,1359776,QPN114,A,82.0,,,77.0,79.0,Bachelor of Technology (Automobile Engineering),32.0,31.0,4.0,15.0,150,67,Hostler,West,Female,Hindi,Theory,UG
+959,318192,1359776,QPN115,A,79.0,29.0,65.0,,81.0,Bachelor of Technology (Automobile Engineering),26.0,8.0,33.0,12.0,150,67,Hostler,West,Female,Hindi,Theory,UG
+960,318192,1359776,QPN116,B+,80.0,22.0,50.0,,86.0,Bachelor of Technology (Automobile Engineering),16.0,39.0,16.0,9.0,150,67,Hostler,West,Female,Hindi,Theory,UG
+961,318192,1359776,QPN31,A+,79.0,37.0,52.0,,77.0,Bachelor of Technology (Automobile Engineering),76.0,3.0,0.0,0.0,150,67,Hostler,West,Female,Hindi,Theory,UG
+962,318192,1359776,QPN38,C,64.0,13.0,38.0,,81.0,Bachelor of Technology (Automobile Engineering),30.0,22.0,5.0,7.0,150,67,Hostler,West,Female,Hindi,Theory,UG
+963,318192,1359776,QPN39,C,52.0,,,62.0,73.0,Bachelor of Technology (Automobile Engineering),47.0,5.0,0.0,0.0,150,67,Hostler,West,Female,Hindi,Theory,UG
+964,318192,1359776,QPN449,B+,74.0,29.0,63.0,,74.0,Bachelor of Technology (Automobile Engineering),36.0,10.0,11.0,17.0,150,67,Hostler,West,Female,Hindi,Theory,UG
+965,318192,1359776,QPN450,A,77.0,34.0,33.0,,87.0,Bachelor of Technology (Automobile Engineering),53.0,3.0,4.0,17.0,150,67,Hostler,West,Female,Hindi,Theory,UG
+1103,318192,1416776,QPN110,B+,64.0,27.0,62.0,,70.0,Bachelor of Technology (Automobile Engineering),11.0,27.0,6.0,20.0,150,88,Hostler,West,Male,Hindi,Theory,UG
+1104,318192,1416776,QPN111,A,68.0,,,70.0,68.0,Bachelor of Technology (Automobile Engineering),11.0,26.0,16.0,15.0,150,88,Hostler,West,Male,Hindi,Theory,UG
+1105,318192,1416776,QPN112,C,59.0,19.0,40.0,,66.0,Bachelor of Technology (Automobile Engineering),19.0,37.0,1.0,2.0,150,88,Hostler,West,Male,Hindi,Theory,UG
+1106,318192,1416776,QPN114,B+,81.0,,,58.0,78.0,Bachelor of Technology (Automobile Engineering),32.0,35.0,14.0,0.0,150,88,Hostler,West,Male,Hindi,Theory,UG
+1107,318192,1416776,QPN115,C,54.0,25.0,48.0,,74.0,Bachelor of Technology (Automobile Engineering),35.0,4.0,7.0,8.0,150,88,Hostler,West,Male,Hindi,Theory,UG
+1108,318192,1416776,QPN116,E,70.0,13.0,26.0,,85.0,Bachelor of Technology (Automobile Engineering),63.0,2.0,5.0,0.0,150,88,Hostler,West,Male,Hindi,Theory,UG
+1109,318192,1416776,QPN206,A,67.0,,,77.0,60.0,Bachelor of Technology (Automobile Engineering),52.0,7.0,3.0,5.0,150,88,Hostler,West,Male,Hindi,Theory,UG
+1110,318192,1416776,QPN38,C,46.0,15.0,47.0,,83.0,Bachelor of Technology (Automobile Engineering),16.0,23.0,5.0,2.0,150,88,Hostler,West,Male,Hindi,Theory,UG
+1111,318192,1416776,QPN39,B+,42.0,,,67.0,83.0,Bachelor of Technology (Automobile Engineering),17.0,14.0,1.0,10.0,150,88,Hostler,West,Male,Hindi,Theory,UG
+1112,318192,1416776,QPN402,E,29.0,3.0,25.0,,55.0,Bachelor of Technology (Automobile Engineering),8.0,7.0,11.0,3.0,150,88,Hostler,West,Male,Hindi,Theory,UG
+1113,318192,1416776,QPN524,B+,74.0,27.0,48.0,,88.0,Bachelor of Technology (Automobile Engineering),39.0,32.0,3.0,0.0,150,88,Hostler,West,Male,Hindi,Theory,UG
+1488,418192,1523776,QPN584,C,,,,50.0,,Bachelor of Technology (Automobile Engineering),,,,,179,47,Hostler,West,Male,Hindi,Practical,UG
+2090,218192,1651776,QPN110,B,49.0,32.0,48.0,,90.0,Bachelor of Technology (Automobile Engineering),8.0,35.0,6.0,0.0,158,51,Hostler,West,Male,Hindi,Theory,UG
+2091,218192,1651776,QPN111,A,68.0,,,67.0,100.0,Bachelor of Technology (Automobile Engineering),4.0,4.0,29.0,31.0,158,51,Hostler,West,Male,Hindi,Theory,UG
+2092,218192,1651776,QPN112,B+,65.0,27.0,46.0,,93.0,Bachelor of Technology (Automobile Engineering),2.0,16.0,20.0,27.0,158,51,Hostler,West,Male,Hindi,Theory,UG
+2093,218192,1651776,QPN114,A,84.0,,,74.0,83.0,Bachelor of Technology (Automobile Engineering),27.0,54.0,2.0,1.0,158,51,Hostler,West,Male,Hindi,Theory,UG
+2094,218192,1651776,QPN115,B+,65.0,32.0,69.0,,93.0,Bachelor of Technology (Automobile Engineering),39.0,1.0,10.0,15.0,158,51,Hostler,West,Male,Hindi,Theory,UG
+2095,218192,1651776,QPN116,B,74.0,10.0,49.0,,92.0,Bachelor of Technology (Automobile Engineering),10.0,58.0,5.0,1.0,158,51,Hostler,West,Male,Hindi,Theory,UG
+2096,218192,1651776,QPN244,B+,64.0,32.0,69.0,,90.0,Bachelor of Technology (Automobile Engineering),22.0,20.0,8.0,14.0,158,51,Hostler,West,Male,Hindi,Theory,UG
+2097,218192,1651776,QPN38,E,41.0,15.0,20.0,,88.0,Bachelor of Technology (Automobile Engineering),27.0,9.0,4.0,1.0,158,51,Hostler,West,Male,Hindi,Theory,UG
+2098,218192,1651776,QPN39,B+,55.0,,,60.0,83.0,Bachelor of Technology (Automobile Engineering),10.0,42.0,0.0,3.0,158,51,Hostler,West,Male,Hindi,Theory,UG
+2099,218192,1651776,QPN558,E,67.0,19.0,0.0,,77.0,Bachelor of Technology (Automobile Engineering),54.0,7.0,6.0,0.0,158,51,Hostler,West,Male,Hindi,Theory,UG
+2100,218192,1651776,QPN777,B+,63.0,27.0,70.0,,92.0,Bachelor of Technology (Automobile Engineering),29.0,10.0,8.0,16.0,158,51,Hostler,West,Male,Hindi,Theory,UG
+3377,218192,1951776,QPN110,A+,90.0,44.0,73.0,,100.0,Bachelor of Technology (Automobile Engineering),78.0,1.0,1.0,10.0,180,90,Hostler,West,Female,Regional,Theory,UG
+3378,218192,1951776,QPN111,A,64.0,,,72.0,94.0,Bachelor of Technology (Automobile Engineering),6.0,4.0,22.0,32.0,180,90,Hostler,West,Female,Regional,Theory,UG
+3379,218192,1951776,QPN112,B,59.0,18.0,45.0,,98.0,Bachelor of Technology (Automobile Engineering),20.0,18.0,11.0,10.0,180,90,Hostler,West,Female,Regional,Theory,UG
+3380,218192,1951776,QPN114,A,85.0,,,72.0,96.0,Bachelor of Technology (Automobile Engineering),39.0,11.0,10.0,25.0,180,90,Hostler,West,Female,Regional,Theory,UG
+3381,218192,1951776,QPN115,B+,70.0,27.0,66.0,,98.0,Bachelor of Technology (Automobile Engineering),59.0,10.0,0.0,1.0,180,90,Hostler,West,Female,Regional,Theory,UG
+3382,218192,1951776,QPN116,B,85.0,19.0,33.0,,96.0,Bachelor of Technology (Automobile Engineering),19.0,31.0,23.0,12.0,180,90,Hostler,West,Female,Regional,Theory,UG
+3383,218192,1951776,QPN117,C,37.0,24.0,53.0,,91.0,Bachelor of Technology (Automobile Engineering),8.0,28.0,0.0,1.0,180,90,Hostler,West,Female,Regional,Theory,UG
+3384,218192,1951776,QPN118,B+,80.0,33.0,53.0,,82.0,Bachelor of Technology (Automobile Engineering),73.0,5.0,1.0,1.0,180,90,Hostler,West,Female,Regional,Theory,UG
+3385,218192,1951776,QPN38,B,50.0,16.0,43.0,,93.0,Bachelor of Technology (Automobile Engineering),3.0,30.0,10.0,7.0,180,90,Hostler,West,Female,Regional,Theory,UG
+3386,218192,1951776,QPN39,A,61.0,,,59.0,93.0,Bachelor of Technology (Automobile Engineering),60.0,0.0,0.0,1.0,180,90,Hostler,West,Female,Regional,Theory,UG
+3387,218192,1951776,QPN777,B+,79.0,23.0,65.0,,98.0,Bachelor of Technology (Automobile Engineering),65.0,5.0,1.0,8.0,180,90,Hostler,West,Female,Regional,Theory,UG
+4732,418192,2233776,QPN11,A,79.0,,63.0,,98.0,Bachelor of Technology (Automobile Engineering),33.0,21.0,16.0,9.0,177,93,Day Scholar,South,Female,English,Theory,UG
+4733,418192,2233776,QPN1146,A,67.0,,,88.0,,Bachelor of Technology (Automobile Engineering),67.0,0.0,0.0,0.0,177,93,Day Scholar,South,Female,English,Theory,UG
+4734,418192,2233776,QPN585,O,85.0,45.0,85.0,,98.0,Bachelor of Technology (Automobile Engineering),78.0,1.0,4.0,2.0,177,93,Day Scholar,South,Female,English,Theory,UG
+4735,418192,2233776,QPN586,A+,83.0,,,88.0,100.0,Bachelor of Technology (Automobile Engineering),7.0,26.0,12.0,38.0,177,93,Day Scholar,South,Female,English,Theory,UG
+4809,318192,2248776,QPN110,C,60.0,29.0,50.0,,59.0,Bachelor of Technology (Automobile Engineering),54.0,3.0,1.0,2.0,169,84,Day Scholar,East,Female,Regional,Theory,UG
+4810,318192,2248776,QPN111,B+,74.0,,,48.0,79.0,Bachelor of Technology (Automobile Engineering),66.0,2.0,2.0,4.0,169,84,Day Scholar,East,Female,Regional,Theory,UG
+4811,318192,2248776,QPN112,E,45.0,23.0,18.0,,64.0,Bachelor of Technology (Automobile Engineering),12.0,19.0,12.0,2.0,169,84,Day Scholar,East,Female,Regional,Theory,UG
+4812,318192,2248776,QPN114,B,80.0,,,51.0,67.0,Bachelor of Technology (Automobile Engineering),36.0,44.0,0.0,0.0,169,84,Day Scholar,East,Female,Regional,Theory,UG
+4813,318192,2248776,QPN115,B,60.0,20.0,66.0,,64.0,Bachelor of Technology (Automobile Engineering),41.0,17.0,2.0,0.0,169,84,Day Scholar,East,Female,Regional,Theory,UG
+4814,318192,2248776,QPN116,B+,72.0,30.0,53.0,,79.0,Bachelor of Technology (Automobile Engineering),65.0,4.0,2.0,1.0,169,84,Day Scholar,East,Female,Regional,Theory,UG
+4815,318192,2248776,QPN117,E,5.0,18.0,29.0,,64.0,Bachelor of Technology (Automobile Engineering),5.0,0.0,0.0,0.0,169,84,Day Scholar,East,Female,Regional,Theory,UG
+4816,318192,2248776,QPN206,B+,53.0,,,74.0,62.0,Bachelor of Technology (Automobile Engineering),14.0,21.0,10.0,8.0,169,84,Day Scholar,East,Female,Regional,Theory,UG
+4817,318192,2248776,QPN38,E,37.0,14.0,26.0,,73.0,Bachelor of Technology (Automobile Engineering),11.0,25.0,0.0,1.0,169,84,Day Scholar,East,Female,Regional,Theory,UG
+4818,318192,2248776,QPN39,B+,59.0,,,69.0,77.0,Bachelor of Technology (Automobile Engineering),55.0,3.0,1.0,0.0,169,84,Day Scholar,East,Female,Regional,Theory,UG
+4819,318192,2248776,QPN392,B,34.0,,,76.0,85.0,Bachelor of Technology (Automobile Engineering),0.0,2.0,6.0,26.0,169,84,Day Scholar,East,Female,Regional,Theory,UG
+5024,318192,2289776,QPN110,C,42.0,28.0,48.0,,90.0,Bachelor of Technology (Automobile Engineering),24.0,10.0,4.0,4.0,158,95,Hostler,South,Male,Regional,Theory,UG
+5025,318192,2289776,QPN111,B+,71.0,,,52.0,79.0,Bachelor of Technology (Automobile Engineering),48.0,15.0,7.0,1.0,158,95,Hostler,South,Male,Regional,Theory,UG
+5026,318192,2289776,QPN112,E,79.0,23.0,16.0,,85.0,Bachelor of Technology (Automobile Engineering),79.0,0.0,0.0,0.0,158,95,Hostler,South,Male,Regional,Theory,UG
+5027,318192,2289776,QPN114,B+,79.0,,,57.0,78.0,Bachelor of Technology (Automobile Engineering),45.0,34.0,0.0,0.0,158,95,Hostler,South,Male,Regional,Theory,UG
+5028,318192,2289776,QPN115,C,62.0,15.0,38.0,,86.0,Bachelor of Technology (Automobile Engineering),28.0,12.0,5.0,17.0,158,95,Hostler,South,Male,Regional,Theory,UG
+5029,318192,2289776,QPN116,B,85.0,0.0,50.0,,90.0,Bachelor of Technology (Automobile Engineering),7.0,13.0,1.0,64.0,158,95,Hostler,South,Male,Regional,Theory,UG
+5030,318192,2289776,QPN206,A,59.0,,,76.0,77.0,Bachelor of Technology (Automobile Engineering),31.0,15.0,7.0,6.0,158,95,Hostler,South,Male,Regional,Theory,UG
+5031,318192,2289776,QPN350,B,49.0,,55.0,,81.0,Bachelor of Technology (Automobile Engineering),29.0,2.0,12.0,6.0,158,95,Hostler,South,Male,Regional,Theory,UG
+5032,318192,2289776,QPN38,E,65.0,15.0,27.0,,83.0,Bachelor of Technology (Automobile Engineering),40.0,22.0,3.0,0.0,158,95,Hostler,South,Male,Regional,Theory,UG
+5033,318192,2289776,QPN39,B+,63.0,,,62.0,83.0,Bachelor of Technology (Automobile Engineering),0.0,55.0,0.0,8.0,158,95,Hostler,South,Male,Regional,Theory,UG
+5034,318192,2289776,QPN877,A,78.0,,,78.0,41.0,Bachelor of Technology (Automobile Engineering),55.0,23.0,0.0,0.0,158,95,Hostler,South,Male,Regional,Theory,UG
+5443,318192,2384776,QPN110,A+,77.0,38.0,80.0,,90.0,Bachelor of Technology (Automobile Engineering),40.0,27.0,7.0,3.0,184,94,Day Scholar,North,Male,English,Theory,UG
+5444,318192,2384776,QPN111,A,66.0,,,67.0,90.0,Bachelor of Technology (Automobile Engineering),12.0,32.0,13.0,9.0,184,94,Day Scholar,North,Male,English,Theory,UG
+5445,318192,2384776,QPN112,B,80.0,40.0,22.0,,87.0,Bachelor of Technology (Automobile Engineering),20.0,27.0,0.0,33.0,184,94,Day Scholar,North,Male,English,Theory,UG
+5446,318192,2384776,QPN114,A,79.0,,,78.0,79.0,Bachelor of Technology (Automobile Engineering),12.0,62.0,1.0,4.0,184,94,Day Scholar,North,Male,English,Theory,UG
+5447,318192,2384776,QPN115,A,70.0,27.0,68.0,,86.0,Bachelor of Technology (Automobile Engineering),38.0,25.0,0.0,7.0,184,94,Day Scholar,North,Male,English,Theory,UG
+5448,318192,2384776,QPN116,E,79.0,14.0,25.0,,86.0,Bachelor of Technology (Automobile Engineering),57.0,5.0,17.0,0.0,184,94,Day Scholar,North,Male,English,Theory,UG
+5449,318192,2384776,QPN163,E,46.0,34.0,0.0,,77.0,Bachelor of Technology (Automobile Engineering),7.0,23.0,10.0,6.0,184,94,Day Scholar,North,Male,English,Theory,UG
+5450,318192,2384776,QPN38,C,65.0,19.0,34.0,,88.0,Bachelor of Technology (Automobile Engineering),7.0,21.0,27.0,10.0,184,94,Day Scholar,North,Male,English,Theory,UG
+5451,318192,2384776,QPN39,A,63.0,,,80.0,85.0,Bachelor of Technology (Automobile Engineering),36.0,11.0,5.0,11.0,184,94,Day Scholar,North,Male,English,Theory,UG
+5452,318192,2384776,QPN402,E,39.0,17.0,5.0,,77.0,Bachelor of Technology (Automobile Engineering),5.0,15.0,9.0,10.0,184,94,Day Scholar,North,Male,English,Theory,UG
+5453,318192,2384776,QPN777,A,83.0,38.0,55.0,,82.0,Bachelor of Technology (Automobile Engineering),19.0,2.0,31.0,31.0,184,94,Day Scholar,North,Male,English,Theory,UG
+5646,418192,2424776,QPN584,B+,,,,67.0,,Bachelor of Technology (Automobile Engineering),,,,,174,82,Hostler,South,Male,Regional,Practical,UG
+6615,418192,2633776,QPN11,B+,81.0,,52.0,,83.0,Bachelor of Technology (Automobile Engineering),15.0,7.0,58.0,1.0,174,49,Day Scholar,North,Female,Regional,Theory,UG
+6616,418192,2633776,QPN1146,A,75.0,,,91.0,,Bachelor of Technology (Automobile Engineering),67.0,1.0,5.0,2.0,174,49,Day Scholar,North,Female,Regional,Theory,UG
+6617,418192,2633776,QPN245,B,47.0,38.0,52.0,,83.0,Bachelor of Technology (Automobile Engineering),16.0,25.0,4.0,2.0,174,49,Day Scholar,North,Female,Regional,Theory,UG
+6618,418192,2633776,QPN246,A+,80.0,39.0,82.0,,86.0,Bachelor of Technology (Automobile Engineering),56.0,19.0,3.0,2.0,174,49,Day Scholar,North,Female,Regional,Theory,UG
+7136,218192,2762776,QPN1327,O,85.0,42.0,85.0,,95.0,Bachelor of Technology (Automobile Engineering),82.0,1.0,1.0,1.0,155,55,Day Scholar,South,Male,English,Theory,UG
+7137,218192,2762776,QPN1328,O,84.0,42.0,75.0,,93.0,Bachelor of Technology (Automobile Engineering),48.0,35.0,0.0,1.0,155,55,Day Scholar,South,Male,English,Theory,UG
+7138,218192,2762776,QPN1329,O,99.0,50.0,98.0,,95.0,Bachelor of Technology (Automobile Engineering),61.0,5.0,1.0,32.0,155,55,Day Scholar,South,Male,English,Theory,UG
+7139,218192,2762776,QPN1330,A+,92.0,35.0,90.0,,98.0,Bachelor of Technology (Automobile Engineering),75.0,11.0,5.0,1.0,155,55,Day Scholar,South,Male,English,Theory,UG
+7140,218192,2762776,QPN1331,A+,88.0,,,78.0,85.0,Bachelor of Technology (Automobile Engineering),63.0,24.0,1.0,0.0,155,55,Day Scholar,South,Male,English,Theory,UG
+7141,218192,2762776,QPN1332,O,100.0,40.0,96.0,,89.0,Bachelor of Technology (Automobile Engineering),68.0,26.0,5.0,1.0,155,55,Day Scholar,South,Male,English,Theory,UG
+7142,218192,2762776,QPN28,O,88.0,48.0,83.0,,91.0,Bachelor of Technology (Automobile Engineering),35.0,4.0,32.0,17.0,155,55,Day Scholar,South,Male,English,Theory,UG
+7143,218192,2762776,QPN328,O,95.0,38.0,89.0,,93.0,Bachelor of Technology (Automobile Engineering),37.0,49.0,5.0,4.0,155,55,Day Scholar,South,Male,English,Theory,UG
+8038,318192,2968776,QPN110,B,80.0,20.0,45.0,,95.0,Bachelor of Technology (Automobile Engineering),70.0,3.0,1.0,6.0,178,56,Hostler,East,Male,Regional,Theory,UG
+8039,318192,2968776,QPN111,A,66.0,,,66.0,94.0,Bachelor of Technology (Automobile Engineering),43.0,14.0,1.0,8.0,178,56,Hostler,East,Male,Regional,Theory,UG
+8040,318192,2968776,QPN112,A+,67.0,29.0,63.0,,95.0,Bachelor of Technology (Automobile Engineering),34.0,27.0,2.0,4.0,178,56,Hostler,East,Male,Regional,Theory,UG
+8041,318192,2968776,QPN113,A+,85.0,38.0,70.0,,93.0,Bachelor of Technology (Automobile Engineering),71.0,6.0,4.0,4.0,178,56,Hostler,East,Male,Regional,Theory,UG
+8042,318192,2968776,QPN114,A+,81.0,,,84.0,92.0,Bachelor of Technology (Automobile Engineering),18.0,18.0,29.0,16.0,178,56,Hostler,East,Male,Regional,Theory,UG
+8043,318192,2968776,QPN115,B,84.0,28.0,39.0,,91.0,Bachelor of Technology (Automobile Engineering),24.0,21.0,32.0,7.0,178,56,Hostler,East,Male,Regional,Theory,UG
+8044,318192,2968776,QPN116,B+,80.0,30.0,49.0,,92.0,Bachelor of Technology (Automobile Engineering),1.0,8.0,62.0,9.0,178,56,Hostler,East,Male,Regional,Theory,UG
+8045,318192,2968776,QPN118,A+,87.0,30.0,48.0,,100.0,Bachelor of Technology (Automobile Engineering),84.0,3.0,0.0,0.0,178,56,Hostler,East,Male,Regional,Theory,UG
+8046,318192,2968776,QPN38,B,49.0,17.0,45.0,,93.0,Bachelor of Technology (Automobile Engineering),22.0,1.0,6.0,20.0,178,56,Hostler,East,Male,Regional,Theory,UG
+8047,318192,2968776,QPN39,A+,59.0,,,77.0,93.0,Bachelor of Technology (Automobile Engineering),45.0,6.0,3.0,5.0,178,56,Hostler,East,Male,Regional,Theory,UG
+8048,318192,2968776,QPN402,A+,70.0,42.0,62.0,,96.0,Bachelor of Technology (Automobile Engineering),35.0,21.0,8.0,6.0,178,56,Hostler,East,Male,Regional,Theory,UG
+9316,218192,3306776,QPN110,B+,77.0,30.0,56.0,,95.0,Bachelor of Technology (Automobile Engineering),50.0,26.0,1.0,0.0,165,99,Day Scholar,West,Male,Regional,Theory,UG
+9317,218192,3306776,QPN111,A,77.0,,,67.0,100.0,Bachelor of Technology (Automobile Engineering),25.0,34.0,15.0,3.0,165,99,Day Scholar,West,Male,Regional,Theory,UG
+9318,218192,3306776,QPN112,C,52.0,28.0,30.0,,95.0,Bachelor of Technology (Automobile Engineering),9.0,8.0,33.0,2.0,165,99,Day Scholar,West,Male,Regional,Theory,UG
+9319,218192,3306776,QPN114,B+,82.0,,,59.0,78.0,Bachelor of Technology (Automobile Engineering),80.0,2.0,0.0,0.0,165,99,Day Scholar,West,Male,Regional,Theory,UG
+9320,218192,3306776,QPN115,B+,64.0,29.0,59.0,,91.0,Bachelor of Technology (Automobile Engineering),16.0,34.0,6.0,8.0,165,99,Day Scholar,West,Male,Regional,Theory,UG
+9321,218192,3306776,QPN116,B+,89.0,33.0,40.0,,92.0,Bachelor of Technology (Automobile Engineering),44.0,6.0,27.0,12.0,165,99,Day Scholar,West,Male,Regional,Theory,UG
+9322,218192,3306776,QPN206,A+,83.0,,,73.0,91.0,Bachelor of Technology (Automobile Engineering),53.0,18.0,5.0,7.0,165,99,Day Scholar,West,Male,Regional,Theory,UG
+9323,218192,3306776,QPN242,B,60.0,25.0,65.0,,88.0,Bachelor of Technology (Automobile Engineering),31.0,17.0,8.0,4.0,165,99,Day Scholar,West,Male,Regional,Theory,UG
+9324,218192,3306776,QPN39,B+,51.0,,,50.0,98.0,Bachelor of Technology (Automobile Engineering),16.0,33.0,2.0,0.0,165,99,Day Scholar,West,Male,Regional,Theory,UG
+9325,218192,3306776,QPN449,E,30.0,0.0,0.0,,3.0,Bachelor of Technology (Automobile Engineering),16.0,8.0,6.0,0.0,165,99,Day Scholar,West,Male,Regional,Theory,UG
+9942,418192,3446776,QPN584,A,,,,78.0,,Bachelor of Technology (Automobile Engineering),,,,,182,54,Day Scholar,East,Female,Regional,Practical,UG
+10957,418192,3643776,QPN11,B+,74.0,,50.0,,83.0,Bachelor of Technology (Automobile Engineering),21.0,3.0,20.0,30.0,168,75,Day Scholar,North,Female,Regional,Theory,UG
+10958,418192,3643776,QPN1146,A,83.0,,,82.0,,Bachelor of Technology (Automobile Engineering),81.0,1.0,0.0,1.0,168,75,Day Scholar,North,Female,Regional,Theory,UG
+10959,418192,3643776,QPN585,A,62.0,38.0,69.0,,86.0,Bachelor of Technology (Automobile Engineering),57.0,5.0,0.0,0.0,168,75,Day Scholar,North,Female,Regional,Theory,UG
+10960,418192,3643776,QPN586,A,79.0,,,79.0,84.0,Bachelor of Technology (Automobile Engineering),8.0,20.0,14.0,37.0,168,75,Day Scholar,North,Female,Regional,Theory,UG
+12447,218192,4029776,QPN110,B,75.0,28.0,49.0,,88.0,Bachelor of Technology (Automobile Engineering),43.0,6.0,22.0,4.0,163,81,Hostler,North,Male,Hindi,Theory,UG
+12448,218192,4029776,QPN111,A,63.0,,,68.0,83.0,Bachelor of Technology (Automobile Engineering),25.0,28.0,1.0,9.0,163,81,Hostler,North,Male,Hindi,Theory,UG
+12449,218192,4029776,QPN112,B+,74.0,25.0,59.0,,82.0,Bachelor of Technology (Automobile Engineering),40.0,33.0,1.0,0.0,163,81,Hostler,North,Male,Hindi,Theory,UG
+12450,218192,4029776,QPN114,A,82.0,,,82.0,74.0,Bachelor of Technology (Automobile Engineering),81.0,1.0,0.0,0.0,163,81,Hostler,North,Male,Hindi,Theory,UG
+12451,218192,4029776,QPN115,B+,69.0,33.0,70.0,,81.0,Bachelor of Technology (Automobile Engineering),34.0,32.0,1.0,2.0,163,81,Hostler,North,Male,Hindi,Theory,UG
+12452,218192,4029776,QPN116,B+,74.0,24.0,56.0,,77.0,Bachelor of Technology (Automobile Engineering),73.0,1.0,0.0,0.0,163,81,Hostler,North,Male,Hindi,Theory,UG
+12453,218192,4029776,QPN117,B,24.0,20.0,78.0,,82.0,Bachelor of Technology (Automobile Engineering),17.0,6.0,1.0,0.0,163,81,Hostler,North,Male,Hindi,Theory,UG
+12454,218192,4029776,QPN38,B,58.0,22.0,43.0,,88.0,Bachelor of Technology (Automobile Engineering),22.0,29.0,3.0,4.0,163,81,Hostler,North,Male,Hindi,Theory,UG
+12455,218192,4029776,QPN39,B+,50.0,,,66.0,83.0,Bachelor of Technology (Automobile Engineering),6.0,20.0,10.0,14.0,163,81,Hostler,North,Male,Hindi,Theory,UG
+12456,218192,4029776,QPN449,B+,78.0,34.0,69.0,,79.0,Bachelor of Technology (Automobile Engineering),10.0,59.0,8.0,1.0,163,81,Hostler,North,Male,Hindi,Theory,UG
+12457,218192,4029776,QPN777,B,68.0,28.0,53.0,,82.0,Bachelor of Technology (Automobile Engineering),48.0,5.0,11.0,4.0,163,81,Hostler,North,Male,Hindi,Theory,UG
+12623,218192,4057776,QPN1327,A+,85.0,34.0,76.0,,93.0,Bachelor of Technology (Automobile Engineering),54.0,10.0,6.0,15.0,181,63,Day Scholar,North,Female,English,Theory,UG
+12624,218192,4057776,QPN1328,B+,73.0,33.0,52.0,,89.0,Bachelor of Technology (Automobile Engineering),69.0,4.0,0.0,0.0,181,63,Day Scholar,North,Female,English,Theory,UG
+12625,218192,4057776,QPN1329,A+,74.0,38.0,73.0,,85.0,Bachelor of Technology (Automobile Engineering),74.0,0.0,0.0,0.0,181,63,Day Scholar,North,Female,English,Theory,UG
+12626,218192,4057776,QPN1330,B+,75.0,25.0,65.0,,93.0,Bachelor of Technology (Automobile Engineering),20.0,4.0,6.0,45.0,181,63,Day Scholar,North,Female,English,Theory,UG
+12627,218192,4057776,QPN1331,A,62.0,,,90.0,87.0,Bachelor of Technology (Automobile Engineering),37.0,14.0,7.0,4.0,181,63,Day Scholar,North,Female,English,Theory,UG
+12628,218192,4057776,QPN1332,B+,80.0,34.0,63.0,,80.0,Bachelor of Technology (Automobile Engineering),29.0,5.0,28.0,18.0,181,63,Day Scholar,North,Female,English,Theory,UG
+12629,218192,4057776,QPN28,A,59.0,26.0,75.0,,91.0,Bachelor of Technology (Automobile Engineering),41.0,13.0,5.0,0.0,181,63,Day Scholar,North,Female,English,Theory,UG
+12630,218192,4057776,QPN328,B+,79.0,20.0,53.0,,88.0,Bachelor of Technology (Automobile Engineering),0.0,8.0,52.0,19.0,181,63,Day Scholar,North,Female,English,Theory,UG
+12685,218192,4067776,QPN1327,A+,90.0,33.0,73.0,,87.0,Bachelor of Technology (Automobile Engineering),30.0,34.0,0.0,26.0,173,80,Hostler,South,Female,Hindi,Theory,UG
+12686,218192,4067776,QPN1328,A+,90.0,42.0,68.0,,86.0,Bachelor of Technology (Automobile Engineering),54.0,29.0,4.0,3.0,173,80,Hostler,South,Female,Hindi,Theory,UG
+12687,218192,4067776,QPN1329,O,65.0,47.0,88.0,,87.0,Bachelor of Technology (Automobile Engineering),9.0,2.0,24.0,30.0,173,80,Hostler,South,Female,Hindi,Theory,UG
+12688,218192,4067776,QPN1330,A,72.0,37.0,80.0,,87.0,Bachelor of Technology (Automobile Engineering),31.0,9.0,14.0,18.0,173,80,Hostler,South,Female,Hindi,Theory,UG
+12689,218192,4067776,QPN1331,O,98.0,,,94.0,94.0,Bachelor of Technology (Automobile Engineering),76.0,20.0,1.0,1.0,173,80,Hostler,South,Female,Hindi,Theory,UG
+12690,218192,4067776,QPN1332,A,94.0,29.0,68.0,,90.0,Bachelor of Technology (Automobile Engineering),68.0,1.0,21.0,4.0,173,80,Hostler,South,Female,Hindi,Theory,UG
+12691,218192,4067776,QPN28,A+,73.0,39.0,79.0,,91.0,Bachelor of Technology (Automobile Engineering),21.0,0.0,43.0,9.0,173,80,Hostler,South,Female,Hindi,Theory,UG
+12692,218192,4067776,QPN328,A,79.0,30.0,65.0,,89.0,Bachelor of Technology (Automobile Engineering),33.0,46.0,0.0,0.0,173,80,Hostler,South,Female,Hindi,Theory,UG
+12893,318192,4110776,QPN110,A+,94.0,38.0,70.0,,83.0,Bachelor of Technology (Automobile Engineering),6.0,69.0,11.0,8.0,161,56,Day Scholar,South,Male,Hindi,Theory,UG
+12894,318192,4110776,QPN111,O,80.0,,,91.0,72.0,Bachelor of Technology (Automobile Engineering),32.0,18.0,17.0,13.0,161,56,Day Scholar,South,Male,Hindi,Theory,UG
+12895,318192,4110776,QPN112,A,70.0,32.0,50.0,,82.0,Bachelor of Technology (Automobile Engineering),12.0,44.0,4.0,10.0,161,56,Day Scholar,South,Male,Hindi,Theory,UG
+12896,318192,4110776,QPN114,B,67.0,,,60.0,50.0,Bachelor of Technology (Automobile Engineering),2.0,36.0,23.0,6.0,161,56,Day Scholar,South,Male,Hindi,Theory,UG
+12897,318192,4110776,QPN115,A,70.0,37.0,73.0,,86.0,Bachelor of Technology (Automobile Engineering),54.0,7.0,0.0,9.0,161,56,Day Scholar,South,Male,Hindi,Theory,UG
+12898,318192,4110776,QPN116,B+,89.0,22.0,48.0,,85.0,Bachelor of Technology (Automobile Engineering),59.0,2.0,16.0,12.0,161,56,Day Scholar,South,Male,Hindi,Theory,UG
+12899,318192,4110776,QPN163,A+,80.0,38.0,50.0,,84.0,Bachelor of Technology (Automobile Engineering),29.0,22.0,18.0,11.0,161,56,Day Scholar,South,Male,Hindi,Theory,UG
+12900,318192,4110776,QPN206,B+,61.0,,,74.0,46.0,Bachelor of Technology (Automobile Engineering),9.0,34.0,8.0,10.0,161,56,Day Scholar,South,Male,Hindi,Theory,UG
+12901,318192,4110776,QPN38,B+,63.0,35.0,40.0,,85.0,Bachelor of Technology (Automobile Engineering),14.0,11.0,24.0,14.0,161,56,Day Scholar,South,Male,Hindi,Theory,UG
+12902,318192,4110776,QPN39,B+,65.0,,,64.0,83.0,Bachelor of Technology (Automobile Engineering),59.0,3.0,2.0,1.0,161,56,Day Scholar,South,Male,Hindi,Theory,UG
+12903,318192,4110776,QPN402,D,49.0,25.0,30.0,,79.0,Bachelor of Technology (Automobile Engineering),6.0,4.0,27.0,12.0,161,56,Day Scholar,South,Male,Hindi,Theory,UG
+13156,218192,4161776,QPN1327,F,0.0,0.0,0.0,,53.0,Bachelor of Technology (Automobile Engineering),0.0,0.0,0.0,0.0,170,83,Hostler,South,Female,Hindi,Theory,UG
+13157,218192,4161776,QPN1328,F,0.0,0.0,0.0,,62.0,Bachelor of Technology (Automobile Engineering),0.0,0.0,0.0,0.0,170,83,Hostler,South,Female,Hindi,Theory,UG
+13158,218192,4161776,QPN1329,F,0.0,0.0,0.0,,54.0,Bachelor of Technology (Automobile Engineering),0.0,0.0,0.0,0.0,170,83,Hostler,South,Female,Hindi,Theory,UG
+13159,218192,4161776,QPN1330,F,0.0,0.0,0.0,,53.0,Bachelor of Technology (Automobile Engineering),0.0,0.0,0.0,0.0,170,83,Hostler,South,Female,Hindi,Theory,UG
+13160,218192,4161776,QPN1331,F,0.0,,,0.0,25.0,Bachelor of Technology (Automobile Engineering),0.0,0.0,0.0,0.0,170,83,Hostler,South,Female,Hindi,Theory,UG
+13161,218192,4161776,QPN1332,F,0.0,0.0,0.0,,55.0,Bachelor of Technology (Automobile Engineering),0.0,0.0,0.0,0.0,170,83,Hostler,South,Female,Hindi,Theory,UG
+13162,218192,4161776,QPN28,F,0.0,0.0,0.0,,40.0,Bachelor of Technology (Automobile Engineering),0.0,0.0,0.0,0.0,170,83,Hostler,South,Female,Hindi,Theory,UG
+13163,218192,4161776,QPN328,F,0.0,0.0,0.0,,62.0,Bachelor of Technology (Automobile Engineering),0.0,0.0,0.0,0.0,170,83,Hostler,South,Female,Hindi,Theory,UG
+13550,318192,4244776,QPN110,B,65.0,24.0,46.0,,90.0,Bachelor of Technology (Automobile Engineering),4.0,26.0,18.0,17.0,163,45,Hostler,East,Female,Hindi,Theory,UG
+13551,318192,4244776,QPN111,B+,69.0,,,47.0,93.0,Bachelor of Technology (Automobile Engineering),45.0,11.0,5.0,8.0,163,45,Hostler,East,Female,Hindi,Theory,UG
+13552,318192,4244776,QPN112,E,87.0,18.0,23.0,,87.0,Bachelor of Technology (Automobile Engineering),51.0,24.0,9.0,3.0,163,45,Hostler,East,Female,Hindi,Theory,UG
+13553,318192,4244776,QPN114,B+,81.0,,,58.0,95.0,Bachelor of Technology (Automobile Engineering),30.0,47.0,4.0,0.0,163,45,Hostler,East,Female,Hindi,Theory,UG
+13554,318192,4244776,QPN115,B,57.0,24.0,52.0,,88.0,Bachelor of Technology (Automobile Engineering),10.0,10.0,13.0,24.0,163,45,Hostler,East,Female,Hindi,Theory,UG
+13555,318192,4244776,QPN116,B,77.0,15.0,39.0,,92.0,Bachelor of Technology (Automobile Engineering),11.0,17.0,43.0,6.0,163,45,Hostler,East,Female,Hindi,Theory,UG
+13556,318192,4244776,QPN118,A,89.0,15.0,49.0,,91.0,Bachelor of Technology (Automobile Engineering),67.0,16.0,5.0,1.0,163,45,Hostler,East,Female,Hindi,Theory,UG
+13557,318192,4244776,QPN206,A,70.0,,,69.0,84.0,Bachelor of Technology (Automobile Engineering),35.0,3.0,8.0,24.0,163,45,Hostler,East,Female,Hindi,Theory,UG
+13558,318192,4244776,QPN244,B+,57.0,27.0,62.0,,88.0,Bachelor of Technology (Automobile Engineering),48.0,5.0,3.0,1.0,163,45,Hostler,East,Female,Hindi,Theory,UG
+13559,318192,4244776,QPN38,C,54.0,30.0,26.0,,90.0,Bachelor of Technology (Automobile Engineering),19.0,21.0,13.0,1.0,163,45,Hostler,East,Female,Hindi,Theory,UG
+13560,318192,4244776,QPN39,B+,55.0,,,65.0,88.0,Bachelor of Technology (Automobile Engineering),52.0,3.0,0.0,0.0,163,45,Hostler,East,Female,Hindi,Theory,UG
+14253,418192,4387776,QPN11,B+,88.0,,40.0,,80.0,Bachelor of Technology (Automobile Engineering),19.0,41.0,27.0,1.0,155,97,Hostler,East,Male,Hindi,Theory,UG
+14254,418192,4387776,QPN1146,A,76.0,,,90.0,,Bachelor of Technology (Automobile Engineering),3.0,45.0,6.0,22.0,155,97,Hostler,East,Male,Hindi,Theory,UG
+14255,418192,4387776,QPN8,A+,74.0,29.0,65.0,,78.0,Bachelor of Technology (Automobile Engineering),13.0,3.0,55.0,3.0,155,97,Hostler,East,Male,Hindi,Theory,UG
+14256,418192,4387776,QPN9,A+,70.0,,,82.0,77.0,Bachelor of Technology (Automobile Engineering),56.0,8.0,0.0,6.0,155,97,Hostler,East,Male,Hindi,Theory,UG
+15886,218192,4768776,QPN110,B+,75.0,35.0,68.0,,80.0,Bachelor of Technology (Automobile Engineering),27.0,15.0,22.0,11.0,160,53,Hostler,North,Male,English,Theory,UG
+15887,218192,4768776,QPN111,A,79.0,,,68.0,86.0,Bachelor of Technology (Automobile Engineering),33.0,25.0,12.0,9.0,160,53,Hostler,North,Male,English,Theory,UG
+15888,218192,4768776,QPN112,D,44.0,23.0,30.0,,85.0,Bachelor of Technology (Automobile Engineering),43.0,0.0,1.0,0.0,160,53,Hostler,North,Male,English,Theory,UG
+15889,218192,4768776,QPN114,A,80.0,,,69.0,100.0,Bachelor of Technology (Automobile Engineering),11.0,53.0,1.0,15.0,160,53,Hostler,North,Male,English,Theory,UG
+15890,218192,4768776,QPN115,B+,62.0,32.0,70.0,,91.0,Bachelor of Technology (Automobile Engineering),52.0,3.0,1.0,6.0,160,53,Hostler,North,Male,English,Theory,UG
+15891,218192,4768776,QPN116,C,82.0,15.0,32.0,,94.0,Bachelor of Technology (Automobile Engineering),30.0,38.0,3.0,11.0,160,53,Hostler,North,Male,English,Theory,UG
+15892,218192,4768776,QPN206,A+,79.0,,,77.0,67.0,Bachelor of Technology (Automobile Engineering),46.0,18.0,12.0,3.0,160,53,Hostler,North,Male,English,Theory,UG
+15893,218192,4768776,QPN38,E,55.0,20.0,20.0,,83.0,Bachelor of Technology (Automobile Engineering),18.0,18.0,5.0,14.0,160,53,Hostler,North,Male,English,Theory,UG
+15894,218192,4768776,QPN39,A+,65.0,,,68.0,95.0,Bachelor of Technology (Automobile Engineering),21.0,41.0,1.0,2.0,160,53,Hostler,North,Male,English,Theory,UG
+15895,218192,4768776,QPN402,E,29.0,10.0,23.0,,67.0,Bachelor of Technology (Automobile Engineering),0.0,17.0,7.0,5.0,160,53,Hostler,North,Male,English,Theory,UG
+15896,218192,4768776,QPN596,B,72.0,27.0,48.0,,75.0,Bachelor of Technology (Automobile Engineering),72.0,0.0,0.0,0.0,160,53,Hostler,North,Male,English,Theory,UG
+16035,318192,4807776,QPN110,B+,69.0,32.0,59.0,,88.0,Bachelor of Technology (Automobile Engineering),1.0,37.0,21.0,10.0,166,56,Day Scholar,South,Female,Hindi,Theory,UG
+16036,318192,4807776,QPN111,A+,75.0,,,84.0,86.0,Bachelor of Technology (Automobile Engineering),3.0,48.0,11.0,13.0,166,56,Day Scholar,South,Female,Hindi,Theory,UG
+16037,318192,4807776,QPN112,C,45.0,20.0,43.0,,66.0,Bachelor of Technology (Automobile Engineering),36.0,7.0,2.0,0.0,166,56,Day Scholar,South,Female,Hindi,Theory,UG
+16038,318192,4807776,QPN114,B,53.0,,,67.0,56.0,Bachelor of Technology (Automobile Engineering),32.0,8.0,6.0,7.0,166,56,Day Scholar,South,Female,Hindi,Theory,UG
+16039,318192,4807776,QPN115,B,59.0,25.0,59.0,,76.0,Bachelor of Technology (Automobile Engineering),39.0,12.0,7.0,1.0,166,56,Day Scholar,South,Female,Hindi,Theory,UG
+16040,318192,4807776,QPN116,C,89.0,4.0,39.0,,81.0,Bachelor of Technology (Automobile Engineering),24.0,6.0,22.0,37.0,166,56,Day Scholar,South,Female,Hindi,Theory,UG
+16041,318192,4807776,QPN118,A+,82.0,29.0,50.0,,91.0,Bachelor of Technology (Automobile Engineering),15.0,62.0,1.0,4.0,166,56,Day Scholar,South,Female,Hindi,Theory,UG
+16042,318192,4807776,QPN206,A,69.0,,,83.0,70.0,Bachelor of Technology (Automobile Engineering),21.0,28.0,5.0,15.0,166,56,Day Scholar,South,Female,Hindi,Theory,UG
+16043,318192,4807776,QPN350,C,49.0,,36.0,,86.0,Bachelor of Technology (Automobile Engineering),15.0,13.0,6.0,15.0,166,56,Day Scholar,South,Female,Hindi,Theory,UG
+16044,318192,4807776,QPN38,E,29.0,13.0,4.0,,83.0,Bachelor of Technology (Automobile Engineering),3.0,0.0,13.0,13.0,166,56,Day Scholar,South,Female,Hindi,Theory,UG
+16045,318192,4807776,QPN39,A+,77.0,,,71.0,88.0,Bachelor of Technology (Automobile Engineering),72.0,2.0,3.0,0.0,166,56,Day Scholar,South,Female,Hindi,Theory,UG
+19119,418192,5479776,QPN11,B+,77.0,,38.0,,94.0,Bachelor of Technology (Automobile Engineering),51.0,20.0,6.0,0.0,160,77,Hostler,South,Female,English,Theory,UG
+19120,418192,5479776,QPN1146,A+,81.0,,,91.0,,Bachelor of Technology (Automobile Engineering),22.0,46.0,13.0,0.0,160,77,Hostler,South,Female,English,Theory,UG
+19121,418192,5479776,QPN335,B,65.0,24.0,50.0,,88.0,Bachelor of Technology (Automobile Engineering),37.0,9.0,16.0,3.0,160,77,Hostler,South,Female,English,Theory,UG
+19122,418192,5479776,QPN588,A,41.0,,,78.0,96.0,Bachelor of Technology (Automobile Engineering),41.0,0.0,0.0,0.0,160,77,Hostler,South,Female,English,Theory,UG
+19655,418192,5602776,QPN11,B+,80.0,,38.0,,87.0,Bachelor of Technology (Automobile Engineering),56.0,5.0,17.0,2.0,182,100,Hostler,North,Male,Regional,Theory,UG
+19656,418192,5602776,QPN1146,A,83.0,,,81.0,,Bachelor of Technology (Automobile Engineering),11.0,44.0,9.0,19.0,182,100,Hostler,North,Male,Regional,Theory,UG
+19657,418192,5602776,QPN585,B+,65.0,39.0,56.0,,81.0,Bachelor of Technology (Automobile Engineering),8.0,54.0,2.0,1.0,182,100,Hostler,North,Male,Regional,Theory,UG
+19658,418192,5602776,QPN586,A,78.0,,,74.0,89.0,Bachelor of Technology (Automobile Engineering),50.0,26.0,1.0,1.0,182,100,Hostler,North,Male,Regional,Theory,UG
+21928,318192,6078776,QPN110,A,82.0,34.0,60.0,,77.0,Bachelor of Technology (Automobile Engineering),81.0,0.0,1.0,0.0,160,74,Day Scholar,West,Female,Hindi,Theory,UG
+21929,318192,6078776,QPN111,A,68.0,,,72.0,87.0,Bachelor of Technology (Automobile Engineering),56.0,0.0,12.0,0.0,160,74,Day Scholar,West,Female,Hindi,Theory,UG
+21930,318192,6078776,QPN112,A,62.0,23.0,53.0,,85.0,Bachelor of Technology (Automobile Engineering),21.0,38.0,1.0,2.0,160,74,Day Scholar,West,Female,Hindi,Theory,UG
+21931,318192,6078776,QPN114,A+,80.0,,,94.0,79.0,Bachelor of Technology (Automobile Engineering),53.0,15.0,10.0,2.0,160,74,Day Scholar,West,Female,Hindi,Theory,UG
+21932,318192,6078776,QPN115,B,35.0,32.0,62.0,,79.0,Bachelor of Technology (Automobile Engineering),12.0,22.0,0.0,1.0,160,74,Day Scholar,West,Female,Hindi,Theory,UG
+21933,318192,6078776,QPN116,B,69.0,19.0,49.0,,75.0,Bachelor of Technology (Automobile Engineering),9.0,2.0,28.0,30.0,160,74,Day Scholar,West,Female,Hindi,Theory,UG
+21934,318192,6078776,QPN350,A,68.0,,58.0,,61.0,Bachelor of Technology (Automobile Engineering),26.0,40.0,0.0,2.0,160,74,Day Scholar,West,Female,Hindi,Theory,UG
+21935,318192,6078776,QPN38,A+,78.0,41.0,82.0,,81.0,Bachelor of Technology (Automobile Engineering),29.0,37.0,2.0,10.0,160,74,Day Scholar,West,Female,Hindi,Theory,UG
+21936,318192,6078776,QPN39,O,79.0,,,92.0,93.0,Bachelor of Technology (Automobile Engineering),9.0,17.0,42.0,11.0,160,74,Day Scholar,West,Female,Hindi,Theory,UG
+21937,318192,6078776,QPN450,B,74.0,18.0,49.0,,53.0,Bachelor of Technology (Automobile Engineering),12.0,51.0,8.0,3.0,160,74,Day Scholar,West,Female,Hindi,Theory,UG
+21938,318192,6078776,QPN524,B+,80.0,15.0,68.0,,93.0,Bachelor of Technology (Automobile Engineering),18.0,6.0,35.0,21.0,160,74,Day Scholar,West,Female,Hindi,Theory,UG
+22722,318192,6233776,QPN110,O,95.0,49.0,95.0,,95.0,Bachelor of Technology (Automobile Engineering),17.0,66.0,8.0,4.0,171,89,Hostler,South,Female,Hindi,Theory,UG
+22723,318192,6233776,QPN111,O,92.0,,,77.0,100.0,Bachelor of Technology (Automobile Engineering),20.0,33.0,11.0,28.0,171,89,Hostler,South,Female,Hindi,Theory,UG
+22724,318192,6233776,QPN112,O,100.0,47.0,92.0,,98.0,Bachelor of Technology (Automobile Engineering),87.0,1.0,2.0,10.0,171,89,Hostler,South,Female,Hindi,Theory,UG
+22725,318192,6233776,QPN114,O,95.0,,,90.0,92.0,Bachelor of Technology (Automobile Engineering),38.0,26.0,19.0,12.0,171,89,Hostler,South,Female,Hindi,Theory,UG
+22726,318192,6233776,QPN115,A+,95.0,48.0,69.0,,93.0,Bachelor of Technology (Automobile Engineering),17.0,70.0,1.0,7.0,171,89,Hostler,South,Female,Hindi,Theory,UG
+22727,318192,6233776,QPN116,O,89.0,38.0,83.0,,100.0,Bachelor of Technology (Automobile Engineering),65.0,15.0,2.0,7.0,171,89,Hostler,South,Female,Hindi,Theory,UG
+22728,318192,6233776,QPN38,O,91.0,42.0,79.0,,98.0,Bachelor of Technology (Automobile Engineering),45.0,1.0,36.0,9.0,171,89,Hostler,South,Female,Hindi,Theory,UG
+22729,318192,6233776,QPN39,A+,70.0,,,77.0,93.0,Bachelor of Technology (Automobile Engineering),27.0,8.0,4.0,31.0,171,89,Hostler,South,Female,Hindi,Theory,UG
+22730,318192,6233776,QPN533,O,84.0,49.0,92.0,,96.0,Bachelor of Technology (Automobile Engineering),17.0,34.0,31.0,2.0,171,89,Hostler,South,Female,Hindi,Theory,UG
+22731,318192,6233776,QPN536,A+,82.0,43.0,78.0,,90.0,Bachelor of Technology (Automobile Engineering),26.0,53.0,3.0,0.0,171,89,Hostler,South,Female,Hindi,Theory,UG
+22732,318192,6233776,QPN777,O,90.0,44.0,93.0,,98.0,Bachelor of Technology (Automobile Engineering),53.0,12.0,10.0,15.0,171,89,Hostler,South,Female,Hindi,Theory,UG
+22828,418192,6252776,QPN11,A,76.0,,55.0,,89.0,Bachelor of Technology (Automobile Engineering),61.0,11.0,0.0,4.0,167,44,Hostler,West,Male,Regional,Theory,UG
+22829,418192,6252776,QPN1146,A,74.0,,,85.0,,Bachelor of Technology (Automobile Engineering),24.0,47.0,0.0,3.0,167,44,Hostler,West,Male,Regional,Theory,UG
+22830,418192,6252776,QPN245,C,35.0,39.0,50.0,,64.0,Bachelor of Technology (Automobile Engineering),6.0,19.0,4.0,6.0,167,44,Hostler,West,Male,Regional,Theory,UG
+22831,418192,6252776,QPN246,A,72.0,38.0,72.0,,74.0,Bachelor of Technology (Automobile Engineering),47.0,10.0,0.0,15.0,167,44,Hostler,West,Male,Regional,Theory,UG
+23942,118192,6519776,QPN1974,F,0.0,,,0.0,60.0,Bachelor of Technology (Automobile Engineering),0.0,0.0,0.0,0.0,152,89,Hostler,North,Male,Regional,Theory,UG
+23943,118192,6519776,QPN1975,E,34.0,0.0,13.0,,77.0,Bachelor of Technology (Automobile Engineering),18.0,7.0,5.0,4.0,152,89,Hostler,North,Male,Regional,Theory,UG
+23944,118192,6519776,QPN385,F,0.0,0.0,0.0,,62.0,Bachelor of Technology (Automobile Engineering),0.0,0.0,0.0,0.0,152,89,Hostler,North,Male,Regional,Theory,UG
+23945,118192,6519776,QPN387,E,13.0,10.0,29.0,,78.0,Bachelor of Technology (Automobile Engineering),4.0,7.0,0.0,2.0,152,89,Hostler,North,Male,Regional,Theory,UG
+23946,118192,6519776,QPN396,F,0.0,,,0.0,68.0,Bachelor of Technology (Automobile Engineering),0.0,0.0,0.0,0.0,152,89,Hostler,North,Male,Regional,Theory,UG
+23947,118192,6519776,QPN397,F,0.0,0.0,0.0,,66.0,Bachelor of Technology (Automobile Engineering),0.0,0.0,0.0,0.0,152,89,Hostler,North,Male,Regional,Theory,UG
+23948,118192,6519776,QPN448,E,40.0,28.0,0.0,,76.0,Bachelor of Technology (Automobile Engineering),37.0,3.0,0.0,0.0,152,89,Hostler,North,Male,Regional,Theory,UG
+23949,118192,6519776,QPN462,C,54.0,,,50.0,80.0,Bachelor of Technology (Automobile Engineering),13.0,25.0,7.0,9.0,152,89,Hostler,North,Male,Regional,Theory,UG
+24985,218192,6762776,QPN1327,B+,69.0,27.0,50.0,,85.0,Bachelor of Technology (Automobile Engineering),23.0,30.0,2.0,14.0,175,85,Hostler,West,Female,English,Theory,UG
+24986,218192,6762776,QPN1328,A,65.0,30.0,72.0,,84.0,Bachelor of Technology (Automobile Engineering),24.0,29.0,0.0,12.0,175,85,Hostler,West,Female,English,Theory,UG
+24987,218192,6762776,QPN1329,B+,40.0,29.0,80.0,,77.0,Bachelor of Technology (Automobile Engineering),19.0,19.0,1.0,1.0,175,85,Hostler,West,Female,English,Theory,UG
+24988,218192,6762776,QPN1330,B+,72.0,29.0,70.0,,74.0,Bachelor of Technology (Automobile Engineering),14.0,55.0,2.0,1.0,175,85,Hostler,West,Female,English,Theory,UG
+24989,218192,6762776,QPN1331,B+,82.0,,,63.0,68.0,Bachelor of Technology (Automobile Engineering),43.0,34.0,3.0,2.0,175,85,Hostler,West,Female,English,Theory,UG
+24990,218192,6762776,QPN1332,A,92.0,35.0,79.0,,80.0,Bachelor of Technology (Automobile Engineering),50.0,16.0,22.0,4.0,175,85,Hostler,West,Female,English,Theory,UG
+24991,218192,6762776,QPN28,B,50.0,27.0,75.0,,77.0,Bachelor of Technology (Automobile Engineering),43.0,7.0,0.0,0.0,175,85,Hostler,West,Female,English,Theory,UG
+24992,218192,6762776,QPN328,B+,79.0,24.0,58.0,,80.0,Bachelor of Technology (Automobile Engineering),57.0,19.0,1.0,2.0,175,85,Hostler,West,Female,English,Theory,UG
+25144,318192,6795776,QPN110,A+,84.0,39.0,72.0,,83.0,Bachelor of Technology (Automobile Engineering),47.0,14.0,1.0,22.0,179,90,Hostler,East,Male,Hindi,Theory,UG
+25145,318192,6795776,QPN111,A,63.0,,,71.0,87.0,Bachelor of Technology (Automobile Engineering),29.0,17.0,1.0,16.0,179,90,Hostler,East,Male,Hindi,Theory,UG
+25146,318192,6795776,QPN112,C,60.0,27.0,40.0,,53.0,Bachelor of Technology (Automobile Engineering),5.0,13.0,1.0,41.0,179,90,Hostler,East,Male,Hindi,Theory,UG
+25147,318192,6795776,QPN113,A,75.0,35.0,66.0,,83.0,Bachelor of Technology (Automobile Engineering),29.0,7.0,37.0,2.0,179,90,Hostler,East,Male,Hindi,Theory,UG
+25148,318192,6795776,QPN114,A,78.0,,,78.0,22.0,Bachelor of Technology (Automobile Engineering),16.0,40.0,20.0,2.0,179,90,Hostler,East,Male,Hindi,Theory,UG
+25149,318192,6795776,QPN115,A,75.0,35.0,69.0,,79.0,Bachelor of Technology (Automobile Engineering),39.0,5.0,5.0,26.0,179,90,Hostler,East,Male,Hindi,Theory,UG
+25150,318192,6795776,QPN116,C,87.0,4.0,32.0,,83.0,Bachelor of Technology (Automobile Engineering),23.0,64.0,0.0,0.0,179,90,Hostler,East,Male,Hindi,Theory,UG
+25151,318192,6795776,QPN118,A+,87.0,33.0,49.0,,76.0,Bachelor of Technology (Automobile Engineering),49.0,22.0,16.0,0.0,179,90,Hostler,East,Male,Hindi,Theory,UG
+25152,318192,6795776,QPN38,C,66.0,21.0,31.0,,86.0,Bachelor of Technology (Automobile Engineering),65.0,1.0,0.0,0.0,179,90,Hostler,East,Male,Hindi,Theory,UG
+25153,318192,6795776,QPN39,A+,60.0,,,79.0,90.0,Bachelor of Technology (Automobile Engineering),18.0,20.0,21.0,1.0,179,90,Hostler,East,Male,Hindi,Theory,UG
+25154,318192,6795776,QPN660,A,84.0,43.0,58.0,,78.0,Bachelor of Technology (Automobile Engineering),73.0,4.0,7.0,0.0,179,90,Hostler,East,Male,Hindi,Theory,UG
+26693,218192,7105776,QPN1327,C,59.0,14.0,42.0,,82.0,Bachelor of Technology (Automobile Engineering),41.0,9.0,6.0,3.0,173,47,Day Scholar,West,Male,Hindi,Theory,UG
+26694,218192,7105776,QPN1328,A,45.0,33.0,72.0,,81.0,Bachelor of Technology (Automobile Engineering),15.0,0.0,1.0,29.0,173,47,Day Scholar,West,Male,Hindi,Theory,UG
+26695,218192,7105776,QPN1329,E,12.0,8.0,48.0,,77.0,Bachelor of Technology (Automobile Engineering),1.0,10.0,1.0,0.0,173,47,Day Scholar,West,Male,Hindi,Theory,UG
+26696,218192,7105776,QPN1330,B,59.0,19.0,76.0,,72.0,Bachelor of Technology (Automobile Engineering),17.0,25.0,2.0,15.0,173,47,Day Scholar,West,Male,Hindi,Theory,UG
+26697,218192,7105776,QPN1331,A+,74.0,,,93.0,83.0,Bachelor of Technology (Automobile Engineering),17.0,10.0,15.0,32.0,173,47,Day Scholar,West,Male,Hindi,Theory,UG
+26698,218192,7105776,QPN1332,B+,69.0,23.0,68.0,,78.0,Bachelor of Technology (Automobile Engineering),27.0,26.0,6.0,10.0,173,47,Day Scholar,West,Male,Hindi,Theory,UG
+26699,218192,7105776,QPN28,B,55.0,21.0,72.0,,71.0,Bachelor of Technology (Automobile Engineering),49.0,5.0,1.0,0.0,173,47,Day Scholar,West,Male,Hindi,Theory,UG
+26700,218192,7105776,QPN328,B,57.0,18.0,53.0,,84.0,Bachelor of Technology (Automobile Engineering),42.0,4.0,7.0,4.0,173,47,Day Scholar,West,Male,Hindi,Theory,UG
+26840,218192,7139776,QPN1327,O,94.0,42.0,82.0,,77.0,Bachelor of Technology (Automobile Engineering),18.0,23.0,46.0,7.0,156,76,Day Scholar,West,Male,Regional,Theory,UG
+26841,218192,7139776,QPN1328,O,91.0,42.0,86.0,,84.0,Bachelor of Technology (Automobile Engineering),71.0,0.0,5.0,15.0,156,76,Day Scholar,West,Male,Regional,Theory,UG
+26842,218192,7139776,QPN1329,O,82.0,37.0,96.0,,75.0,Bachelor of Technology (Automobile Engineering),10.0,37.0,35.0,0.0,156,76,Day Scholar,West,Male,Regional,Theory,UG
+26843,218192,7139776,QPN1330,B+,77.0,29.0,72.0,,82.0,Bachelor of Technology (Automobile Engineering),6.0,58.0,9.0,4.0,156,76,Day Scholar,West,Male,Regional,Theory,UG
+26844,218192,7139776,QPN1331,O,96.0,,,91.0,87.0,Bachelor of Technology (Automobile Engineering),21.0,4.0,60.0,11.0,156,76,Day Scholar,West,Male,Regional,Theory,UG
+26845,218192,7139776,QPN1332,A,94.0,40.0,65.0,,83.0,Bachelor of Technology (Automobile Engineering),94.0,0.0,0.0,0.0,156,76,Day Scholar,West,Male,Regional,Theory,UG
+26846,218192,7139776,QPN28,B+,47.0,35.0,72.0,,81.0,Bachelor of Technology (Automobile Engineering),5.0,2.0,29.0,11.0,156,76,Day Scholar,West,Male,Regional,Theory,UG
+26847,218192,7139776,QPN328,A,79.0,37.0,72.0,,80.0,Bachelor of Technology (Automobile Engineering),44.0,4.0,5.0,26.0,156,76,Day Scholar,West,Male,Regional,Theory,UG
+27107,218192,7200776,QPN1327,A,60.0,33.0,69.0,,85.0,Bachelor of Technology (Automobile Engineering),0.0,39.0,5.0,16.0,158,43,Day Scholar,East,Male,Hindi,Theory,UG
+27108,218192,7200776,QPN1328,O,75.0,44.0,83.0,,96.0,Bachelor of Technology (Automobile Engineering),0.0,57.0,15.0,3.0,158,43,Day Scholar,East,Male,Hindi,Theory,UG
+27109,218192,7200776,QPN1329,O,99.0,35.0,89.0,,95.0,Bachelor of Technology (Automobile Engineering),44.0,7.0,7.0,41.0,158,43,Day Scholar,East,Male,Hindi,Theory,UG
+27110,218192,7200776,QPN1330,A,69.0,42.0,72.0,,98.0,Bachelor of Technology (Automobile Engineering),38.0,2.0,13.0,16.0,158,43,Day Scholar,East,Male,Hindi,Theory,UG
+27111,218192,7200776,QPN1331,A+,94.0,,,80.0,85.0,Bachelor of Technology (Automobile Engineering),81.0,2.0,6.0,5.0,158,43,Day Scholar,East,Male,Hindi,Theory,UG
+27112,218192,7200776,QPN1332,A+,100.0,34.0,82.0,,91.0,Bachelor of Technology (Automobile Engineering),58.0,42.0,0.0,0.0,158,43,Day Scholar,East,Male,Hindi,Theory,UG
+27113,218192,7200776,QPN28,A+,66.0,42.0,78.0,,91.0,Bachelor of Technology (Automobile Engineering),16.0,47.0,3.0,0.0,158,43,Day Scholar,East,Male,Hindi,Theory,UG
+27114,218192,7200776,QPN328,A,72.0,30.0,66.0,,86.0,Bachelor of Technology (Automobile Engineering),60.0,4.0,0.0,8.0,158,43,Day Scholar,East,Male,Hindi,Theory,UG
+28036,318192,7391776,QPN110,A,92.0,32.0,59.0,,75.0,Bachelor of Technology (Automobile Engineering),45.0,30.0,9.0,8.0,176,56,Day Scholar,South,Female,Regional,Theory,UG
+28037,318192,7391776,QPN1106,B+,72.0,27.0,58.0,,52.0,Bachelor of Technology (Automobile Engineering),19.0,52.0,1.0,0.0,176,56,Day Scholar,South,Female,Regional,Theory,UG
+28038,318192,7391776,QPN111,A,72.0,,,60.0,100.0,Bachelor of Technology (Automobile Engineering),62.0,9.0,1.0,0.0,176,56,Day Scholar,South,Female,Regional,Theory,UG
+28039,318192,7391776,QPN112,C,29.0,27.0,42.0,,77.0,Bachelor of Technology (Automobile Engineering),4.0,10.0,5.0,10.0,176,56,Day Scholar,South,Female,Regional,Theory,UG
+28040,318192,7391776,QPN114,B,52.0,,,60.0,89.0,Bachelor of Technology (Automobile Engineering),47.0,3.0,2.0,0.0,176,56,Day Scholar,South,Female,Regional,Theory,UG
+28041,318192,7391776,QPN115,B+,65.0,29.0,55.0,,83.0,Bachelor of Technology (Automobile Engineering),46.0,6.0,8.0,5.0,176,56,Day Scholar,South,Female,Regional,Theory,UG
+28042,318192,7391776,QPN116,B+,74.0,19.0,55.0,,87.0,Bachelor of Technology (Automobile Engineering),31.0,25.0,12.0,6.0,176,56,Day Scholar,South,Female,Regional,Theory,UG
+28043,318192,7391776,QPN206,A,76.0,,,67.0,74.0,Bachelor of Technology (Automobile Engineering),45.0,27.0,2.0,2.0,176,56,Day Scholar,South,Female,Regional,Theory,UG
+28044,318192,7391776,QPN244,B+,57.0,37.0,62.0,,60.0,Bachelor of Technology (Automobile Engineering),27.0,25.0,5.0,0.0,176,56,Day Scholar,South,Female,Regional,Theory,UG
+28045,318192,7391776,QPN38,C,38.0,16.0,34.0,,90.0,Bachelor of Technology (Automobile Engineering),8.0,24.0,1.0,5.0,176,56,Day Scholar,South,Female,Regional,Theory,UG
+28046,318192,7391776,QPN39,B+,45.0,,,64.0,80.0,Bachelor of Technology (Automobile Engineering),36.0,0.0,7.0,2.0,176,56,Day Scholar,South,Female,Regional,Theory,UG
+28378,418192,7447776,QPN11,A,85.0,,48.0,,85.0,Bachelor of Technology (Automobile Engineering),29.0,1.0,6.0,49.0,180,77,Hostler,West,Female,Hindi,Theory,UG
+28379,418192,7447776,QPN1146,A,76.0,,,90.0,,Bachelor of Technology (Automobile Engineering),33.0,20.0,17.0,6.0,180,77,Hostler,West,Female,Hindi,Theory,UG
+28380,418192,7447776,QPN1163,D,50.0,13.0,40.0,,74.0,Bachelor of Technology (Automobile Engineering),41.0,4.0,0.0,5.0,180,77,Hostler,West,Female,Hindi,Theory,UG
+28381,418192,7447776,QPN1164,E,73.0,25.0,0.0,,67.0,Bachelor of Technology (Automobile Engineering),55.0,3.0,6.0,9.0,180,77,Hostler,West,Female,Hindi,Theory,UG
+30733,218192,8018776,QPN1327,C,79.0,15.0,32.0,,93.0,Bachelor of Technology (Automobile Engineering),5.0,67.0,3.0,4.0,180,80,Hostler,East,Male,English,Theory,UG
+30734,218192,8018776,QPN1328,B+,55.0,34.0,48.0,,91.0,Bachelor of Technology (Automobile Engineering),22.0,10.0,19.0,4.0,180,80,Hostler,East,Male,English,Theory,UG
+30735,218192,8018776,QPN1329,B,54.0,35.0,35.0,,91.0,Bachelor of Technology (Automobile Engineering),45.0,0.0,1.0,8.0,180,80,Hostler,East,Male,English,Theory,UG
+30736,218192,8018776,QPN1330,C,59.0,19.0,48.0,,90.0,Bachelor of Technology (Automobile Engineering),7.0,40.0,6.0,6.0,180,80,Hostler,East,Male,English,Theory,UG
+30737,218192,8018776,QPN1331,O,97.0,,,93.0,92.0,Bachelor of Technology (Automobile Engineering),4.0,80.0,4.0,9.0,180,80,Hostler,East,Male,English,Theory,UG
+30738,218192,8018776,QPN1332,B,80.0,23.0,52.0,,90.0,Bachelor of Technology (Automobile Engineering),10.0,28.0,12.0,30.0,180,80,Hostler,East,Male,English,Theory,UG
+30739,218192,8018776,QPN28,A,62.0,39.0,78.0,,86.0,Bachelor of Technology (Automobile Engineering),24.0,1.0,17.0,20.0,180,80,Hostler,East,Male,English,Theory,UG
+30740,218192,8018776,QPN328,A,95.0,24.0,65.0,,88.0,Bachelor of Technology (Automobile Engineering),55.0,26.0,3.0,11.0,180,80,Hostler,East,Male,English,Theory,UG
+33926,218192,8748776,QPN1327,B,70.0,23.0,48.0,,87.0,Bachelor of Technology (Automobile Engineering),4.0,39.0,25.0,2.0,159,95,Day Scholar,South,Female,Hindi,Theory,UG
+33927,218192,8748776,QPN1328,A+,70.0,38.0,76.0,,91.0,Bachelor of Technology (Automobile Engineering),59.0,1.0,6.0,4.0,159,95,Day Scholar,South,Female,Hindi,Theory,UG
+33928,218192,8748776,QPN1329,A+,90.0,34.0,78.0,,91.0,Bachelor of Technology (Automobile Engineering),71.0,3.0,15.0,1.0,159,95,Day Scholar,South,Female,Hindi,Theory,UG
+33929,218192,8748776,QPN1330,A,72.0,37.0,75.0,,95.0,Bachelor of Technology (Automobile Engineering),9.0,20.0,4.0,39.0,159,95,Day Scholar,South,Female,Hindi,Theory,UG
+33930,218192,8748776,QPN1331,A+,90.0,,,86.0,93.0,Bachelor of Technology (Automobile Engineering),77.0,9.0,4.0,0.0,159,95,Day Scholar,South,Female,Hindi,Theory,UG
+33931,218192,8748776,QPN1332,B+,84.0,28.0,52.0,,93.0,Bachelor of Technology (Automobile Engineering),18.0,45.0,17.0,4.0,159,95,Day Scholar,South,Female,Hindi,Theory,UG
+33932,218192,8748776,QPN28,A,71.0,32.0,66.0,,89.0,Bachelor of Technology (Automobile Engineering),46.0,17.0,8.0,0.0,159,95,Day Scholar,South,Female,Hindi,Theory,UG
+33933,218192,8748776,QPN328,B,55.0,24.0,46.0,,85.0,Bachelor of Technology (Automobile Engineering),49.0,3.0,3.0,0.0,159,95,Day Scholar,South,Female,Hindi,Theory,UG
+35210,318192,9054776,QPN110,B,75.0,19.0,46.0,,93.0,Bachelor of Technology (Automobile Engineering),41.0,0.0,28.0,6.0,176,86,Day Scholar,South,Male,Regional,Theory,UG
+35211,318192,9054776,QPN111,B+,69.0,,,42.0,93.0,Bachelor of Technology (Automobile Engineering),55.0,13.0,1.0,0.0,176,86,Day Scholar,South,Male,Regional,Theory,UG
+35212,318192,9054776,QPN112,A,77.0,24.0,43.0,,82.0,Bachelor of Technology (Automobile Engineering),31.0,46.0,0.0,0.0,176,86,Day Scholar,South,Male,Regional,Theory,UG
+35213,318192,9054776,QPN114,B+,81.0,,,53.0,78.0,Bachelor of Technology (Automobile Engineering),62.0,1.0,4.0,14.0,176,86,Day Scholar,South,Male,Regional,Theory,UG
+35214,318192,9054776,QPN115,B,64.0,22.0,48.0,,88.0,Bachelor of Technology (Automobile Engineering),63.0,0.0,0.0,1.0,176,86,Day Scholar,South,Male,Regional,Theory,UG
+35215,318192,9054776,QPN116,A,90.0,22.0,58.0,,87.0,Bachelor of Technology (Automobile Engineering),32.0,34.0,6.0,18.0,176,86,Day Scholar,South,Male,Regional,Theory,UG
+35216,318192,9054776,QPN206,A,73.0,,,66.0,70.0,Bachelor of Technology (Automobile Engineering),16.0,36.0,9.0,12.0,176,86,Day Scholar,South,Male,Regional,Theory,UG
+35217,318192,9054776,QPN207,B,60.0,22.0,58.0,,42.0,Bachelor of Technology (Automobile Engineering),5.0,44.0,10.0,1.0,176,86,Day Scholar,South,Male,Regional,Theory,UG
+35218,318192,9054776,QPN38,C,61.0,22.0,30.0,,85.0,Bachelor of Technology (Automobile Engineering),24.0,17.0,11.0,9.0,176,86,Day Scholar,South,Male,Regional,Theory,UG
+35219,318192,9054776,QPN39,B+,56.0,,,60.0,83.0,Bachelor of Technology (Automobile Engineering),27.0,16.0,10.0,3.0,176,86,Day Scholar,South,Male,Regional,Theory,UG
+35220,318192,9054776,QPN660,C,75.0,10.0,38.0,,80.0,Bachelor of Technology (Automobile Engineering),32.0,26.0,7.0,10.0,176,86,Day Scholar,South,Male,Regional,Theory,UG
+35367,418192,9088776,QPN11,B+,79.0,,40.0,,80.0,Bachelor of Technology (Automobile Engineering),69.0,6.0,4.0,0.0,160,96,Day Scholar,East,Male,English,Theory,UG
+35368,418192,9088776,QPN1146,A,69.0,,,86.0,,Bachelor of Technology (Automobile Engineering),38.0,29.0,1.0,1.0,160,96,Day Scholar,East,Male,English,Theory,UG
+35369,418192,9088776,QPN1754,E,49.0,14.0,32.0,,74.0,Bachelor of Technology (Automobile Engineering),37.0,6.0,2.0,4.0,160,96,Day Scholar,East,Male,English,Theory,UG
+35370,418192,9088776,QPN1821,B+,81.0,,,64.0,61.0,Bachelor of Technology (Automobile Engineering),28.0,11.0,13.0,29.0,160,96,Day Scholar,East,Male,English,Theory,UG
+35758,418192,9188776,QPN11,B+,80.0,,33.0,,94.0,Bachelor of Technology (Automobile Engineering),22.0,13.0,27.0,18.0,179,51,Day Scholar,East,Male,Hindi,Theory,UG
+35759,418192,9188776,QPN1146,A+,82.0,,,90.0,,Bachelor of Technology (Automobile Engineering),2.0,5.0,49.0,26.0,179,51,Day Scholar,East,Male,Hindi,Theory,UG
+35760,418192,9188776,QPN8,B,54.0,25.0,50.0,,94.0,Bachelor of Technology (Automobile Engineering),34.0,8.0,1.0,11.0,179,51,Day Scholar,East,Male,Hindi,Theory,UG
+35761,418192,9188776,QPN9,A+,61.0,,,82.0,100.0,Bachelor of Technology (Automobile Engineering),15.0,1.0,3.0,42.0,179,51,Day Scholar,East,Male,Hindi,Theory,UG
+36580,318192,9353776,QPN110,D,52.0,24.0,29.0,,67.0,Bachelor of Technology (Automobile Engineering),43.0,3.0,1.0,5.0,180,43,Day Scholar,North,Male,English,Theory,UG
+36581,318192,9353776,QPN111,B+,64.0,,,54.0,100.0,Bachelor of Technology (Automobile Engineering),28.0,33.0,3.0,0.0,180,43,Day Scholar,North,Male,English,Theory,UG
+36582,318192,9353776,QPN112,E,49.0,14.0,15.0,,61.0,Bachelor of Technology (Automobile Engineering),7.0,23.0,11.0,8.0,180,43,Day Scholar,North,Male,English,Theory,UG
+36583,318192,9353776,QPN114,B,77.0,,,53.0,67.0,Bachelor of Technology (Automobile Engineering),48.0,23.0,5.0,1.0,180,43,Day Scholar,North,Male,English,Theory,UG
+36584,318192,9353776,QPN115,E,47.0,19.0,19.0,,74.0,Bachelor of Technology (Automobile Engineering),35.0,7.0,5.0,0.0,180,43,Day Scholar,North,Male,English,Theory,UG
+36585,318192,9353776,QPN116,C,84.0,19.0,32.0,,68.0,Bachelor of Technology (Automobile Engineering),25.0,34.0,19.0,6.0,180,43,Day Scholar,North,Male,English,Theory,UG
+36586,318192,9353776,QPN206,A+,73.0,,,77.0,86.0,Bachelor of Technology (Automobile Engineering),0.0,6.0,18.0,49.0,180,43,Day Scholar,North,Male,English,Theory,UG
+36587,318192,9353776,QPN350,E,49.0,,15.0,,83.0,Bachelor of Technology (Automobile Engineering),38.0,1.0,9.0,1.0,180,43,Day Scholar,North,Male,English,Theory,UG
+36588,318192,9353776,QPN38,E,24.0,16.0,40.0,,55.0,Bachelor of Technology (Automobile Engineering),19.0,4.0,0.0,1.0,180,43,Day Scholar,North,Male,English,Theory,UG
+36589,318192,9353776,QPN39,C,34.0,,,63.0,75.0,Bachelor of Technology (Automobile Engineering),21.0,8.0,0.0,5.0,180,43,Day Scholar,North,Male,English,Theory,UG
+36590,318192,9353776,QPN776,E,0.0,10.0,32.0,,24.0,Bachelor of Technology (Automobile Engineering),0.0,0.0,0.0,0.0,180,43,Day Scholar,North,Male,English,Theory,UG
+37297,318192,9502776,QPN110,B,57.0,24.0,52.0,,90.0,Bachelor of Technology (Automobile Engineering),0.0,18.0,31.0,8.0,177,90,Hostler,South,Female,English,Theory,UG
+37298,318192,9502776,QPN111,A,63.0,,,71.0,90.0,Bachelor of Technology (Automobile Engineering),0.0,19.0,24.0,20.0,177,90,Hostler,South,Female,English,Theory,UG
+37299,318192,9502776,QPN112,B,49.0,20.0,48.0,,90.0,Bachelor of Technology (Automobile Engineering),34.0,2.0,9.0,4.0,177,90,Hostler,South,Female,English,Theory,UG
+37300,318192,9502776,QPN113,A,80.0,32.0,60.0,,90.0,Bachelor of Technology (Automobile Engineering),48.0,14.0,17.0,1.0,177,90,Hostler,South,Female,English,Theory,UG
+37301,318192,9502776,QPN114,A+,82.0,,,83.0,96.0,Bachelor of Technology (Automobile Engineering),62.0,5.0,6.0,9.0,177,90,Hostler,South,Female,English,Theory,UG
+37302,318192,9502776,QPN115,B+,67.0,27.0,53.0,,93.0,Bachelor of Technology (Automobile Engineering),64.0,1.0,1.0,1.0,177,90,Hostler,South,Female,English,Theory,UG
+37303,318192,9502776,QPN116,B+,79.0,24.0,43.0,,92.0,Bachelor of Technology (Automobile Engineering),4.0,45.0,17.0,13.0,177,90,Hostler,South,Female,English,Theory,UG
+37304,318192,9502776,QPN336,A+,73.0,,,79.0,80.0,Bachelor of Technology (Automobile Engineering),28.0,15.0,28.0,2.0,177,90,Hostler,South,Female,English,Theory,UG
+37305,318192,9502776,QPN37,C,52.0,19.0,49.0,,84.0,Bachelor of Technology (Automobile Engineering),17.0,7.0,3.0,25.0,177,90,Hostler,South,Female,English,Theory,UG
+37306,318192,9502776,QPN38,B+,54.0,24.0,49.0,,91.0,Bachelor of Technology (Automobile Engineering),48.0,3.0,0.0,3.0,177,90,Hostler,South,Female,English,Theory,UG
+37307,318192,9502776,QPN39,A,63.0,,,59.0,93.0,Bachelor of Technology (Automobile Engineering),14.0,7.0,3.0,39.0,177,90,Hostler,South,Female,English,Theory,UG
+38440,218192,9771776,QPN1327,C,59.0,15.0,50.0,,69.0,Bachelor of Technology (Automobile Engineering),56.0,0.0,3.0,0.0,181,89,Hostler,North,Female,English,Theory,UG
+38441,218192,9771776,QPN1328,B+,59.0,29.0,65.0,,72.0,Bachelor of Technology (Automobile Engineering),29.0,0.0,21.0,9.0,181,89,Hostler,North,Female,English,Theory,UG
+38442,218192,9771776,QPN1329,D,45.0,2.0,49.0,,63.0,Bachelor of Technology (Automobile Engineering),16.0,8.0,17.0,4.0,181,89,Hostler,North,Female,English,Theory,UG
+38443,218192,9771776,QPN1330,B+,82.0,32.0,68.0,,69.0,Bachelor of Technology (Automobile Engineering),29.0,8.0,18.0,27.0,181,89,Hostler,North,Female,English,Theory,UG
+38444,218192,9771776,QPN1331,O,89.0,,,93.0,76.0,Bachelor of Technology (Automobile Engineering),44.0,22.0,13.0,10.0,181,89,Hostler,North,Female,English,Theory,UG
+38445,218192,9771776,QPN1332,C,70.0,19.0,40.0,,70.0,Bachelor of Technology (Automobile Engineering),11.0,43.0,2.0,14.0,181,89,Hostler,North,Female,English,Theory,UG
+38446,218192,9771776,QPN28,B+,64.0,28.0,65.0,,86.0,Bachelor of Technology (Automobile Engineering),9.0,39.0,11.0,5.0,181,89,Hostler,North,Female,English,Theory,UG
+38447,218192,9771776,QPN328,B+,74.0,28.0,49.0,,89.0,Bachelor of Technology (Automobile Engineering),21.0,29.0,18.0,6.0,181,89,Hostler,North,Female,English,Theory,UG
+38962,218192,9901776,QPN1327,B,40.0,20.0,70.0,,77.0,Bachelor of Technology (Automobile Engineering),9.0,20.0,3.0,8.0,154,85,Hostler,East,Male,Hindi,Theory,UG
+38963,218192,9901776,QPN1328,B+,44.0,25.0,62.0,,84.0,Bachelor of Technology (Automobile Engineering),22.0,14.0,7.0,1.0,154,85,Hostler,East,Male,Hindi,Theory,UG
+38964,218192,9901776,QPN1329,C,40.0,17.0,53.0,,75.0,Bachelor of Technology (Automobile Engineering),21.0,12.0,7.0,0.0,154,85,Hostler,East,Male,Hindi,Theory,UG
+38965,218192,9901776,QPN1330,B,75.0,23.0,53.0,,69.0,Bachelor of Technology (Automobile Engineering),17.0,54.0,1.0,3.0,154,85,Hostler,East,Male,Hindi,Theory,UG
+38966,218192,9901776,QPN1331,B,57.0,,,62.0,87.0,Bachelor of Technology (Automobile Engineering),48.0,9.0,0.0,0.0,154,85,Hostler,East,Male,Hindi,Theory,UG
+38967,218192,9901776,QPN1332,B+,70.0,28.0,63.0,,80.0,Bachelor of Technology (Automobile Engineering),5.0,27.0,35.0,3.0,154,85,Hostler,East,Male,Hindi,Theory,UG
+38968,218192,9901776,QPN28,B,40.0,25.0,56.0,,81.0,Bachelor of Technology (Automobile Engineering),36.0,3.0,1.0,0.0,154,85,Hostler,East,Male,Hindi,Theory,UG
+38969,218192,9901776,QPN328,B+,72.0,23.0,58.0,,89.0,Bachelor of Technology (Automobile Engineering),62.0,8.0,0.0,2.0,154,85,Hostler,East,Male,Hindi,Theory,UG
+40890,418192,10368776,QPN584,A+,,,,83.0,,Bachelor of Technology (Automobile Engineering),,,,,182,74,Day Scholar,West,Female,Regional,Practical,UG
+42997,418192,10789776,QPN11,E,69.0,,28.0,,87.0,Bachelor of Technology (Automobile Engineering),44.0,6.0,18.0,1.0,168,65,Hostler,West,Female,Regional,Theory,UG
+42998,418192,10789776,QPN1146,A+,83.0,,,89.0,,Bachelor of Technology (Automobile Engineering),19.0,55.0,9.0,0.0,168,65,Hostler,West,Female,Regional,Theory,UG
+42999,418192,10789776,QPN8,C,57.0,23.0,36.0,,78.0,Bachelor of Technology (Automobile Engineering),41.0,5.0,7.0,4.0,168,65,Hostler,West,Female,Regional,Theory,UG
+43000,418192,10789776,QPN9,C,49.0,,,42.0,84.0,Bachelor of Technology (Automobile Engineering),1.0,36.0,5.0,7.0,168,65,Hostler,West,Female,Regional,Theory,UG
+43789,218192,10957776,QPN1327,A,75.0,43.0,59.0,,100.0,Bachelor of Technology (Automobile Engineering),12.0,17.0,44.0,2.0,179,47,Hostler,North,Male,English,Theory,UG
+43790,218192,10957776,QPN1328,A+,76.0,34.0,70.0,,98.0,Bachelor of Technology (Automobile Engineering),30.0,29.0,0.0,17.0,179,47,Hostler,North,Male,English,Theory,UG
+43791,218192,10957776,QPN1329,A+,95.0,30.0,78.0,,100.0,Bachelor of Technology (Automobile Engineering),73.0,14.0,3.0,5.0,179,47,Hostler,North,Male,English,Theory,UG
+43792,218192,10957776,QPN1330,A+,80.0,39.0,88.0,,100.0,Bachelor of Technology (Automobile Engineering),10.0,51.0,2.0,17.0,179,47,Hostler,North,Male,English,Theory,UG
+43793,218192,10957776,QPN1331,A,76.0,,,66.0,100.0,Bachelor of Technology (Automobile Engineering),57.0,12.0,2.0,5.0,179,47,Hostler,North,Male,English,Theory,UG
+43794,218192,10957776,QPN1332,A,87.0,30.0,79.0,,100.0,Bachelor of Technology (Automobile Engineering),86.0,0.0,1.0,0.0,179,47,Hostler,North,Male,English,Theory,UG
+43795,218192,10957776,QPN28,A+,78.0,34.0,78.0,,100.0,Bachelor of Technology (Automobile Engineering),68.0,6.0,3.0,1.0,179,47,Hostler,North,Male,English,Theory,UG
+43796,218192,10957776,QPN328,A+,80.0,34.0,86.0,,100.0,Bachelor of Technology (Automobile Engineering),16.0,55.0,9.0,0.0,179,47,Hostler,North,Male,English,Theory,UG
+43854,118192,10970776,QPN1974,B,69.0,,,36.0,85.0,Bachelor of Technology (Automobile Engineering),49.0,4.0,3.0,13.0,151,69,Day Scholar,West,Male,Regional,Theory,UG
+43855,118192,10970776,QPN1975,C,54.0,19.0,55.0,,74.0,Bachelor of Technology (Automobile Engineering),5.0,43.0,1.0,5.0,151,69,Day Scholar,West,Male,Regional,Theory,UG
+43856,118192,10970776,QPN385,B,62.0,29.0,45.0,,75.0,Bachelor of Technology (Automobile Engineering),29.0,28.0,0.0,5.0,151,69,Day Scholar,West,Male,Regional,Theory,UG
+43857,118192,10970776,QPN387,E,25.0,17.0,46.0,,70.0,Bachelor of Technology (Automobile Engineering),2.0,11.0,6.0,6.0,151,69,Day Scholar,West,Male,Regional,Theory,UG
+43858,118192,10970776,QPN396,A,62.0,,,71.0,79.0,Bachelor of Technology (Automobile Engineering),0.0,36.0,24.0,2.0,151,69,Day Scholar,West,Male,Regional,Theory,UG
+43859,118192,10970776,QPN397,B+,60.0,17.0,76.0,,79.0,Bachelor of Technology (Automobile Engineering),45.0,8.0,6.0,1.0,151,69,Day Scholar,West,Male,Regional,Theory,UG
+43860,118192,10970776,QPN448,E,45.0,18.0,32.0,,80.0,Bachelor of Technology (Automobile Engineering),25.0,12.0,4.0,4.0,151,69,Day Scholar,West,Male,Regional,Theory,UG
+43861,118192,10970776,QPN462,B+,80.0,,,55.0,90.0,Bachelor of Technology (Automobile Engineering),56.0,6.0,12.0,6.0,151,69,Day Scholar,West,Male,Regional,Theory,UG
+44369,418192,11069776,QPN11,A,77.0,,59.0,,87.0,Bachelor of Technology (Automobile Engineering),61.0,6.0,5.0,5.0,169,67,Day Scholar,West,Male,English,Theory,UG
+44370,418192,11069776,QPN1146,A,83.0,,,79.0,,Bachelor of Technology (Automobile Engineering),26.0,51.0,4.0,2.0,169,67,Day Scholar,West,Male,English,Theory,UG
+44371,418192,11069776,QPN585,B+,62.0,20.0,76.0,,81.0,Bachelor of Technology (Automobile Engineering),32.0,2.0,8.0,20.0,169,67,Day Scholar,West,Male,English,Theory,UG
+44372,418192,11069776,QPN586,A,82.0,,,68.0,91.0,Bachelor of Technology (Automobile Engineering),28.0,35.0,13.0,6.0,169,67,Day Scholar,West,Male,English,Theory,UG
+48721,118192,11954776,QPN1974,A,68.0,,,78.0,91.0,Bachelor of Technology (Automobile Engineering),67.0,1.0,0.0,0.0,170,51,Day Scholar,East,Female,English,Theory,UG
+48722,118192,11954776,QPN1975,C,54.0,13.0,50.0,,87.0,Bachelor of Technology (Automobile Engineering),53.0,1.0,0.0,0.0,170,51,Day Scholar,East,Female,English,Theory,UG
+48723,118192,11954776,QPN385,A,66.0,22.0,65.0,,91.0,Bachelor of Technology (Automobile Engineering),46.0,7.0,2.0,11.0,170,51,Day Scholar,East,Female,English,Theory,UG
+48724,118192,11954776,QPN387,E,30.0,12.0,36.0,,88.0,Bachelor of Technology (Automobile Engineering),16.0,7.0,6.0,1.0,170,51,Day Scholar,East,Female,English,Theory,UG
+48725,118192,11954776,QPN396,A,58.0,,,73.0,86.0,Bachelor of Technology (Automobile Engineering),57.0,1.0,0.0,0.0,170,51,Day Scholar,East,Female,English,Theory,UG
+48726,118192,11954776,QPN397,E,44.0,15.0,29.0,,90.0,Bachelor of Technology (Automobile Engineering),30.0,0.0,14.0,0.0,170,51,Day Scholar,East,Female,English,Theory,UG
+48727,118192,11954776,QPN448,C,45.0,29.0,30.0,,93.0,Bachelor of Technology (Automobile Engineering),29.0,7.0,8.0,1.0,170,51,Day Scholar,East,Female,English,Theory,UG
+48728,118192,11954776,QPN462,B+,74.0,,,65.0,90.0,Bachelor of Technology (Automobile Engineering),21.0,38.0,1.0,14.0,170,51,Day Scholar,East,Female,English,Theory,UG
+51136,418192,12460776,QPN11,B+,73.0,,40.0,,96.0,Bachelor of Technology (Automobile Engineering),3.0,59.0,7.0,4.0,178,84,Hostler,East,Female,Hindi,Theory,UG
+51137,418192,12460776,QPN1146,A+,79.0,,,91.0,,Bachelor of Technology (Automobile Engineering),63.0,12.0,1.0,3.0,178,84,Hostler,East,Female,Hindi,Theory,UG
+51138,418192,12460776,QPN245,B,69.0,22.0,49.0,,98.0,Bachelor of Technology (Automobile Engineering),58.0,2.0,7.0,2.0,178,84,Hostler,East,Female,Hindi,Theory,UG
+51139,418192,12460776,QPN246,A,75.0,33.0,68.0,,98.0,Bachelor of Technology (Automobile Engineering),17.0,57.0,0.0,1.0,178,84,Hostler,East,Female,Hindi,Theory,UG
+51563,218192,12549776,QPN1327,C,60.0,20.0,45.0,,69.0,Bachelor of Technology (Automobile Engineering),18.0,0.0,7.0,35.0,182,77,Day Scholar,East,Male,Hindi,Theory,UG
+51564,218192,12549776,QPN1328,B+,62.0,27.0,66.0,,72.0,Bachelor of Technology (Automobile Engineering),2.0,29.0,6.0,25.0,182,77,Day Scholar,East,Male,Hindi,Theory,UG
+51565,218192,12549776,QPN1329,E,34.0,17.0,23.0,,67.0,Bachelor of Technology (Automobile Engineering),11.0,12.0,3.0,8.0,182,77,Day Scholar,East,Male,Hindi,Theory,UG
+51566,218192,12549776,QPN1330,C,67.0,28.0,50.0,,64.0,Bachelor of Technology (Automobile Engineering),8.0,57.0,0.0,2.0,182,77,Day Scholar,East,Male,Hindi,Theory,UG
+51567,218192,12549776,QPN1331,A,71.0,,,87.0,67.0,Bachelor of Technology (Automobile Engineering),1.0,19.0,3.0,48.0,182,77,Day Scholar,East,Male,Hindi,Theory,UG
+51568,218192,12549776,QPN1332,C,67.0,9.0,43.0,,63.0,Bachelor of Technology (Automobile Engineering),33.0,19.0,12.0,3.0,182,77,Day Scholar,East,Male,Hindi,Theory,UG
+51569,218192,12549776,QPN28,D,39.0,10.0,57.0,,69.0,Bachelor of Technology (Automobile Engineering),2.0,12.0,1.0,24.0,182,77,Day Scholar,East,Male,Hindi,Theory,UG
+51570,218192,12549776,QPN328,C,77.0,14.0,45.0,,71.0,Bachelor of Technology (Automobile Engineering),11.0,12.0,10.0,44.0,182,77,Day Scholar,East,Male,Hindi,Theory,UG
+51749,418192,12587776,QPN584,A,,,,78.0,,Bachelor of Technology (Automobile Engineering),,,,,151,57,Hostler,North,Male,Regional,Practical,UG
+53683,118192,13023776,QPN1974,A+,94.0,,,74.0,96.0,Bachelor of Technology (Automobile Engineering),87.0,6.0,0.0,1.0,170,99,Day Scholar,West,Male,English,Theory,UG
+53684,118192,13023776,QPN1975,B+,82.0,23.0,72.0,,98.0,Bachelor of Technology (Automobile Engineering),51.0,12.0,9.0,10.0,170,99,Day Scholar,West,Male,English,Theory,UG
+53685,118192,13023776,QPN385,A+,67.0,38.0,81.0,,87.0,Bachelor of Technology (Automobile Engineering),50.0,13.0,2.0,2.0,170,99,Day Scholar,West,Male,English,Theory,UG
+53686,118192,13023776,QPN387,B+,80.0,32.0,43.0,,88.0,Bachelor of Technology (Automobile Engineering),80.0,0.0,0.0,0.0,170,99,Day Scholar,West,Male,English,Theory,UG
+53687,118192,13023776,QPN396,A+,69.0,,,87.0,97.0,Bachelor of Technology (Automobile Engineering),28.0,40.0,0.0,1.0,170,99,Day Scholar,West,Male,English,Theory,UG
+53688,118192,13023776,QPN397,B,49.0,24.0,49.0,,87.0,Bachelor of Technology (Automobile Engineering),15.0,12.0,6.0,16.0,170,99,Day Scholar,West,Male,English,Theory,UG
+53689,118192,13023776,QPN448,B,66.0,28.0,42.0,,93.0,Bachelor of Technology (Automobile Engineering),20.0,40.0,1.0,5.0,170,99,Day Scholar,West,Male,English,Theory,UG
+53690,118192,13023776,QPN462,A,81.0,,,78.0,100.0,Bachelor of Technology (Automobile Engineering),41.0,19.0,2.0,19.0,170,99,Day Scholar,West,Male,English,Theory,UG
+54178,418192,13128776,QPN11,B+,76.0,,52.0,,78.0,Bachelor of Technology (Automobile Engineering),52.0,10.0,13.0,1.0,172,95,Day Scholar,North,Female,English,Theory,UG
+54179,418192,13128776,QPN1146,A,74.0,,,85.0,,Bachelor of Technology (Automobile Engineering),21.0,11.0,34.0,8.0,172,95,Day Scholar,North,Female,English,Theory,UG
+54180,418192,13128776,QPN8,A,79.0,22.0,48.0,,78.0,Bachelor of Technology (Automobile Engineering),9.0,30.0,29.0,11.0,172,95,Day Scholar,North,Female,English,Theory,UG
+54181,418192,13128776,QPN9,B,47.0,,,64.0,72.0,Bachelor of Technology (Automobile Engineering),24.0,19.0,4.0,0.0,172,95,Day Scholar,North,Female,English,Theory,UG
+54891,318192,13256776,QPN110,A,59.0,37.0,63.0,,90.0,Bachelor of Technology (Automobile Engineering),50.0,5.0,0.0,4.0,176,53,Hostler,West,Female,Regional,Theory,UG
+54892,318192,13256776,QPN111,B+,66.0,,,47.0,86.0,Bachelor of Technology (Automobile Engineering),37.0,16.0,8.0,5.0,176,53,Hostler,West,Female,Regional,Theory,UG
+54893,318192,13256776,QPN112,D,45.0,22.0,38.0,,74.0,Bachelor of Technology (Automobile Engineering),11.0,7.0,6.0,21.0,176,53,Hostler,West,Female,Regional,Theory,UG
+54894,318192,13256776,QPN114,B+,79.0,,,53.0,78.0,Bachelor of Technology (Automobile Engineering),52.0,16.0,3.0,8.0,176,53,Hostler,West,Female,Regional,Theory,UG
+54895,318192,13256776,QPN115,B+,55.0,18.0,68.0,,83.0,Bachelor of Technology (Automobile Engineering),6.0,49.0,0.0,0.0,176,53,Hostler,West,Female,Regional,Theory,UG
+54896,318192,13256776,QPN116,B,74.0,12.0,46.0,,90.0,Bachelor of Technology (Automobile Engineering),65.0,8.0,0.0,1.0,176,53,Hostler,West,Female,Regional,Theory,UG
+54897,318192,13256776,QPN1185,C,82.0,19.0,46.0,,74.0,Bachelor of Technology (Automobile Engineering),77.0,5.0,0.0,0.0,176,53,Hostler,West,Female,Regional,Theory,UG
+54898,318192,13256776,QPN206,A,73.0,,,71.0,77.0,Bachelor of Technology (Automobile Engineering),33.0,9.0,25.0,6.0,176,53,Hostler,West,Female,Regional,Theory,UG
+54899,318192,13256776,QPN38,C,53.0,30.0,42.0,,80.0,Bachelor of Technology (Automobile Engineering),18.0,1.0,31.0,3.0,176,53,Hostler,West,Female,Regional,Theory,UG
+54900,318192,13256776,QPN39,B+,54.0,,,63.0,80.0,Bachelor of Technology (Automobile Engineering),4.0,27.0,14.0,9.0,176,53,Hostler,West,Female,Regional,Theory,UG
+54901,318192,13256776,QPN660,B+,75.0,32.0,45.0,,83.0,Bachelor of Technology (Automobile Engineering),46.0,1.0,20.0,8.0,176,53,Hostler,West,Female,Regional,Theory,UG
+55418,418192,13403776,QPN11,A,77.0,,62.0,,83.0,Bachelor of Technology (Automobile Engineering),16.0,38.0,4.0,19.0,165,67,Day Scholar,East,Male,Hindi,Theory,UG
+55419,418192,13403776,QPN1146,A,78.0,,,89.0,,Bachelor of Technology (Automobile Engineering),29.0,11.0,19.0,19.0,165,67,Day Scholar,East,Male,Hindi,Theory,UG
+55420,418192,13403776,QPN585,B,47.0,30.0,62.0,,74.0,Bachelor of Technology (Automobile Engineering),8.0,16.0,7.0,16.0,165,67,Day Scholar,East,Male,Hindi,Theory,UG
+55421,418192,13403776,QPN586,A+,81.0,,,79.0,89.0,Bachelor of Technology (Automobile Engineering),72.0,6.0,0.0,3.0,165,67,Day Scholar,East,Male,Hindi,Theory,UG
+56852,318192,13755776,QPN11,A,77.0,,56.0,,85.0,Bachelor of Technology (Automobile Engineering),34.0,7.0,33.0,3.0,152,48,Day Scholar,North,Male,English,Theory,UG
+56853,318192,13755776,QPN1146,B+,68.0,,,67.0,,Bachelor of Technology (Automobile Engineering),39.0,29.0,0.0,0.0,152,48,Day Scholar,North,Male,English,Theory,UG
+56854,318192,13755776,QPN1754,B+,74.0,23.0,66.0,,84.0,Bachelor of Technology (Automobile Engineering),0.0,47.0,17.0,10.0,152,48,Day Scholar,North,Male,English,Theory,UG
+56855,318192,13755776,QPN1821,A,78.0,,,85.0,69.0,Bachelor of Technology (Automobile Engineering),7.0,65.0,0.0,6.0,152,48,Day Scholar,North,Male,English,Theory,UG
+56934,418192,13771776,QPN1193,F,,,,0.0,,Bachelor of Technology (Automobile Engineering),,,,,169,43,Hostler,South,Female,Regional,Practical,UG
+58194,318192,14032776,QPN110,B+,70.0,32.0,50.0,,85.0,Bachelor of Technology (Automobile Engineering),69.0,1.0,0.0,0.0,152,67,Hostler,South,Male,English,Theory,UG
+58195,318192,14032776,QPN111,A,58.0,,,65.0,87.0,Bachelor of Technology (Automobile Engineering),54.0,3.0,0.0,1.0,152,67,Hostler,South,Male,English,Theory,UG
+58196,318192,14032776,QPN112,A,57.0,22.0,60.0,,82.0,Bachelor of Technology (Automobile Engineering),31.0,19.0,4.0,3.0,152,67,Hostler,South,Male,English,Theory,UG
+58197,318192,14032776,QPN114,A,81.0,,,77.0,66.0,Bachelor of Technology (Automobile Engineering),1.0,22.0,51.0,7.0,152,67,Hostler,South,Male,English,Theory,UG
+58198,318192,14032776,QPN115,B+,60.0,28.0,59.0,,83.0,Bachelor of Technology (Automobile Engineering),58.0,0.0,2.0,0.0,152,67,Hostler,South,Male,English,Theory,UG
+58199,318192,14032776,QPN116,B+,72.0,28.0,49.0,,75.0,Bachelor of Technology (Automobile Engineering),5.0,21.0,33.0,13.0,152,67,Hostler,South,Male,English,Theory,UG
+58200,318192,14032776,QPN242,C,47.0,0.0,73.0,,69.0,Bachelor of Technology (Automobile Engineering),27.0,7.0,7.0,6.0,152,67,Hostler,South,Male,English,Theory,UG
+58201,318192,14032776,QPN38,B+,69.0,23.0,62.0,,76.0,Bachelor of Technology (Automobile Engineering),2.0,29.0,30.0,8.0,152,67,Hostler,South,Male,English,Theory,UG
+58202,318192,14032776,QPN39,A,54.0,,,65.0,90.0,Bachelor of Technology (Automobile Engineering),27.0,10.0,11.0,6.0,152,67,Hostler,South,Male,English,Theory,UG
+58203,318192,14032776,QPN450,B,55.0,15.0,59.0,,19.0,Bachelor of Technology (Automobile Engineering),34.0,0.0,16.0,5.0,152,67,Hostler,South,Male,English,Theory,UG
+58204,318192,14032776,QPN524,B+,70.0,19.0,58.0,,85.0,Bachelor of Technology (Automobile Engineering),10.0,12.0,13.0,35.0,152,67,Hostler,South,Male,English,Theory,UG
+58832,318192,14168776,QPN110,B+,69.0,33.0,59.0,,75.0,Bachelor of Technology (Automobile Engineering),21.0,1.0,47.0,0.0,155,67,Day Scholar,West,Female,English,Theory,UG
+58833,318192,14168776,QPN111,A,60.0,,,72.0,80.0,Bachelor of Technology (Automobile Engineering),3.0,24.0,2.0,31.0,155,67,Day Scholar,West,Female,English,Theory,UG
+58834,318192,14168776,QPN112,A,69.0,20.0,53.0,,77.0,Bachelor of Technology (Automobile Engineering),27.0,41.0,0.0,1.0,155,67,Day Scholar,West,Female,English,Theory,UG
+58835,318192,14168776,QPN114,A+,83.0,,,85.0,70.0,Bachelor of Technology (Automobile Engineering),4.0,68.0,2.0,9.0,155,67,Day Scholar,West,Female,English,Theory,UG
+58836,318192,14168776,QPN115,B+,65.0,27.0,59.0,,83.0,Bachelor of Technology (Automobile Engineering),12.0,3.0,41.0,9.0,155,67,Day Scholar,West,Female,English,Theory,UG
+58837,318192,14168776,QPN116,C,74.0,17.0,35.0,,66.0,Bachelor of Technology (Automobile Engineering),3.0,38.0,32.0,1.0,155,67,Day Scholar,West,Female,English,Theory,UG
+58838,318192,14168776,QPN242,C,57.0,0.0,63.0,,64.0,Bachelor of Technology (Automobile Engineering),17.0,26.0,5.0,9.0,155,67,Day Scholar,West,Female,English,Theory,UG
+58839,318192,14168776,QPN38,C,68.0,23.0,43.0,,76.0,Bachelor of Technology (Automobile Engineering),26.0,7.0,14.0,21.0,155,67,Day Scholar,West,Female,English,Theory,UG
+58840,318192,14168776,QPN39,B,43.0,,,53.0,85.0,Bachelor of Technology (Automobile Engineering),13.0,11.0,2.0,17.0,155,67,Day Scholar,West,Female,English,Theory,UG
+58841,318192,14168776,QPN450,E,40.0,13.0,30.0,,24.0,Bachelor of Technology (Automobile Engineering),1.0,33.0,4.0,2.0,155,67,Day Scholar,West,Female,English,Theory,UG
+58842,318192,14168776,QPN575,C,64.0,23.0,48.0,,65.0,Bachelor of Technology (Automobile Engineering),21.0,19.0,22.0,2.0,155,67,Day Scholar,West,Female,English,Theory,UG
+59328,318192,14273776,QPN110,A,94.0,38.0,63.0,,83.0,Bachelor of Technology (Automobile Engineering),83.0,0.0,6.0,5.0,179,53,Day Scholar,North,Male,English,Theory,UG
+59329,318192,14273776,QPN1106,A+,70.0,34.0,86.0,,43.0,Bachelor of Technology (Automobile Engineering),31.0,4.0,7.0,28.0,179,53,Day Scholar,North,Male,English,Theory,UG
+59330,318192,14273776,QPN111,A,72.0,,,60.0,87.0,Bachelor of Technology (Automobile Engineering),3.0,38.0,3.0,28.0,179,53,Day Scholar,North,Male,English,Theory,UG
+59331,318192,14273776,QPN112,A,59.0,33.0,50.0,,77.0,Bachelor of Technology (Automobile Engineering),24.0,28.0,6.0,1.0,179,53,Day Scholar,North,Male,English,Theory,UG
+59332,318192,14273776,QPN114,A+,81.0,,,94.0,57.0,Bachelor of Technology (Automobile Engineering),72.0,7.0,2.0,0.0,179,53,Day Scholar,North,Male,English,Theory,UG
+59333,318192,14273776,QPN115,B+,65.0,29.0,68.0,,76.0,Bachelor of Technology (Automobile Engineering),45.0,3.0,5.0,12.0,179,53,Day Scholar,North,Male,English,Theory,UG
+59334,318192,14273776,QPN116,B+,94.0,10.0,48.0,,92.0,Bachelor of Technology (Automobile Engineering),20.0,74.0,0.0,0.0,179,53,Day Scholar,North,Male,English,Theory,UG
+59335,318192,14273776,QPN350,B,54.0,,49.0,,88.0,Bachelor of Technology (Automobile Engineering),0.0,5.0,1.0,48.0,179,53,Day Scholar,North,Male,English,Theory,UG
+59336,318192,14273776,QPN38,E,70.0,14.0,24.0,,88.0,Bachelor of Technology (Automobile Engineering),15.0,54.0,1.0,0.0,179,53,Day Scholar,North,Male,English,Theory,UG
+59337,318192,14273776,QPN39,A+,71.0,,,81.0,95.0,Bachelor of Technology (Automobile Engineering),65.0,1.0,2.0,3.0,179,53,Day Scholar,North,Male,English,Theory,UG
+59338,318192,14273776,QPN450,C,61.0,20.0,40.0,,87.0,Bachelor of Technology (Automobile Engineering),37.0,10.0,4.0,10.0,179,53,Day Scholar,North,Male,English,Theory,UG
+60542,418192,14537776,QPN11,B+,81.0,,50.0,,74.0,Bachelor of Technology (Automobile Engineering),4.0,19.0,8.0,50.0,157,43,Hostler,South,Male,Regional,Theory,UG
+60543,418192,14537776,QPN1146,A,71.0,,,91.0,,Bachelor of Technology (Automobile Engineering),4.0,39.0,5.0,23.0,157,43,Hostler,South,Male,Regional,Theory,UG
+60544,418192,14537776,QPN585,B+,62.0,38.0,65.0,,77.0,Bachelor of Technology (Automobile Engineering),19.0,11.0,29.0,3.0,157,43,Hostler,South,Male,Regional,Theory,UG
+60545,418192,14537776,QPN586,A,78.0,,,78.0,74.0,Bachelor of Technology (Automobile Engineering),53.0,19.0,4.0,2.0,157,43,Hostler,South,Male,Regional,Theory,UG
+60891,318192,14596776,QPN110,B+,89.0,30.0,50.0,,83.0,Bachelor of Technology (Automobile Engineering),81.0,3.0,0.0,5.0,170,94,Hostler,East,Male,Hindi,Theory,UG
+60892,318192,14596776,QPN111,B+,62.0,,,61.0,83.0,Bachelor of Technology (Automobile Engineering),45.0,3.0,13.0,1.0,170,94,Hostler,East,Male,Hindi,Theory,UG
+60893,318192,14596776,QPN112,A,74.0,32.0,42.0,,93.0,Bachelor of Technology (Automobile Engineering),61.0,13.0,0.0,0.0,170,94,Hostler,East,Male,Hindi,Theory,UG
+60894,318192,14596776,QPN113,A+,79.0,33.0,82.0,,77.0,Bachelor of Technology (Automobile Engineering),72.0,6.0,0.0,1.0,170,94,Hostler,East,Male,Hindi,Theory,UG
+60895,318192,14596776,QPN114,A,80.0,,,80.0,79.0,Bachelor of Technology (Automobile Engineering),39.0,3.0,27.0,11.0,170,94,Hostler,East,Male,Hindi,Theory,UG
+60896,318192,14596776,QPN115,C,69.0,13.0,49.0,,86.0,Bachelor of Technology (Automobile Engineering),28.0,11.0,9.0,21.0,170,94,Hostler,East,Male,Hindi,Theory,UG
+60897,318192,14596776,QPN116,B,77.0,20.0,43.0,,83.0,Bachelor of Technology (Automobile Engineering),25.0,31.0,4.0,17.0,170,94,Hostler,East,Male,Hindi,Theory,UG
+60898,318192,14596776,QPN38,B,58.0,22.0,40.0,,88.0,Bachelor of Technology (Automobile Engineering),20.0,6.0,3.0,29.0,170,94,Hostler,East,Male,Hindi,Theory,UG
+60899,318192,14596776,QPN39,A,59.0,,,71.0,93.0,Bachelor of Technology (Automobile Engineering),36.0,9.0,10.0,4.0,170,94,Hostler,East,Male,Hindi,Theory,UG
+60900,318192,14596776,QPN402,E,50.0,7.0,26.0,,77.0,Bachelor of Technology (Automobile Engineering),5.0,17.0,13.0,15.0,170,94,Hostler,East,Male,Hindi,Theory,UG
+60901,318192,14596776,QPN575,A,74.0,25.0,50.0,,75.0,Bachelor of Technology (Automobile Engineering),49.0,20.0,5.0,0.0,170,94,Hostler,East,Male,Hindi,Theory,UG
+60939,118192,14604776,QPN1974,O,89.0,,,84.0,95.0,Bachelor of Technology (Automobile Engineering),58.0,8.0,10.0,13.0,177,66,Hostler,East,Female,Hindi,Theory,UG
+60940,118192,14604776,QPN1975,B+,59.0,34.0,72.0,,100.0,Bachelor of Technology (Automobile Engineering),56.0,1.0,2.0,0.0,177,66,Hostler,East,Female,Hindi,Theory,UG
+60941,118192,14604776,QPN385,A+,77.0,27.0,69.0,,95.0,Bachelor of Technology (Automobile Engineering),49.0,26.0,2.0,0.0,177,66,Hostler,East,Female,Hindi,Theory,UG
+60942,118192,14604776,QPN387,E,10.0,17.0,26.0,,82.0,Bachelor of Technology (Automobile Engineering),0.0,9.0,0.0,1.0,177,66,Hostler,East,Female,Hindi,Theory,UG
+60943,118192,14604776,QPN396,A+,72.0,,,88.0,100.0,Bachelor of Technology (Automobile Engineering),21.0,50.0,1.0,0.0,177,66,Hostler,East,Female,Hindi,Theory,UG
+60944,118192,14604776,QPN397,B+,74.0,20.0,55.0,,93.0,Bachelor of Technology (Automobile Engineering),54.0,11.0,0.0,9.0,177,66,Hostler,East,Female,Hindi,Theory,UG
+60945,118192,14604776,QPN448,C,47.0,19.0,40.0,,91.0,Bachelor of Technology (Automobile Engineering),44.0,0.0,3.0,0.0,177,66,Hostler,East,Female,Hindi,Theory,UG
+60946,118192,14604776,QPN462,B+,63.0,,,80.0,97.0,Bachelor of Technology (Automobile Engineering),7.0,45.0,2.0,9.0,177,66,Hostler,East,Female,Hindi,Theory,UG
+61301,218192,14678776,QPN1327,B+,82.0,19.0,52.0,,79.0,Bachelor of Technology (Automobile Engineering),59.0,1.0,5.0,17.0,155,74,Hostler,East,Male,Regional,Theory,UG
+61302,218192,14678776,QPN1328,B+,52.0,32.0,63.0,,79.0,Bachelor of Technology (Automobile Engineering),20.0,12.0,8.0,12.0,155,74,Hostler,East,Male,Regional,Theory,UG
+61303,218192,14678776,QPN1329,C,42.0,27.0,50.0,,75.0,Bachelor of Technology (Automobile Engineering),13.0,1.0,9.0,19.0,155,74,Hostler,East,Male,Regional,Theory,UG
+61304,218192,14678776,QPN1330,B,77.0,32.0,58.0,,69.0,Bachelor of Technology (Automobile Engineering),7.0,30.0,30.0,10.0,155,74,Hostler,East,Male,Regional,Theory,UG
+61305,218192,14678776,QPN1331,A+,84.0,,,90.0,80.0,Bachelor of Technology (Automobile Engineering),4.0,17.0,41.0,22.0,155,74,Hostler,East,Male,Regional,Theory,UG
+61306,218192,14678776,QPN1332,B,79.0,20.0,62.0,,80.0,Bachelor of Technology (Automobile Engineering),18.0,31.0,11.0,19.0,155,74,Hostler,East,Male,Regional,Theory,UG
+61307,218192,14678776,QPN28,B+,64.0,32.0,64.0,,86.0,Bachelor of Technology (Automobile Engineering),48.0,4.0,10.0,2.0,155,74,Hostler,East,Male,Regional,Theory,UG
+61308,218192,14678776,QPN328,B+,75.0,24.0,56.0,,84.0,Bachelor of Technology (Automobile Engineering),52.0,13.0,8.0,2.0,155,74,Hostler,East,Male,Regional,Theory,UG
+61438,418192,14702776,QPN11,B,76.0,,30.0,,78.0,Bachelor of Technology (Automobile Engineering),52.0,19.0,2.0,3.0,180,100,Day Scholar,North,Female,Regional,Theory,UG
+61439,418192,14702776,QPN1146,A,83.0,,,80.0,,Bachelor of Technology (Automobile Engineering),18.0,30.0,12.0,23.0,180,100,Day Scholar,North,Female,Regional,Theory,UG
+61440,418192,14702776,QPN585,B+,57.0,24.0,65.0,,84.0,Bachelor of Technology (Automobile Engineering),15.0,36.0,6.0,0.0,180,100,Day Scholar,North,Female,Regional,Theory,UG
+61441,418192,14702776,QPN586,A,81.0,,,78.0,79.0,Bachelor of Technology (Automobile Engineering),26.0,2.0,49.0,4.0,180,100,Day Scholar,North,Female,Regional,Theory,UG
+61778,118192,14785776,QPN1327,A,65.0,30.0,72.0,,82.0,Bachelor of Technology (Automobile Engineering),11.0,24.0,21.0,9.0,182,98,Day Scholar,East,Female,Hindi,Theory,UG
+61779,118192,14785776,QPN1328,A+,65.0,38.0,73.0,,89.0,Bachelor of Technology (Automobile Engineering),4.0,35.0,18.0,8.0,182,98,Day Scholar,East,Female,Hindi,Theory,UG
+61780,118192,14785776,QPN1329,A,80.0,37.0,55.0,,88.0,Bachelor of Technology (Automobile Engineering),67.0,6.0,6.0,1.0,182,98,Day Scholar,East,Female,Hindi,Theory,UG
+61781,118192,14785776,QPN1330,A,74.0,35.0,85.0,,84.0,Bachelor of Technology (Automobile Engineering),14.0,21.0,1.0,38.0,182,98,Day Scholar,East,Female,Hindi,Theory,UG
+61782,118192,14785776,QPN1331,O,98.0,,,82.0,100.0,Bachelor of Technology (Automobile Engineering),42.0,50.0,0.0,6.0,182,98,Day Scholar,East,Female,Hindi,Theory,UG
+61783,118192,14785776,QPN1332,B+,79.0,9.0,83.0,,84.0,Bachelor of Technology (Automobile Engineering),22.0,37.0,5.0,15.0,182,98,Day Scholar,East,Female,Hindi,Theory,UG
+61784,118192,14785776,QPN28,B+,59.0,32.0,63.0,,85.0,Bachelor of Technology (Automobile Engineering),46.0,0.0,2.0,11.0,182,98,Day Scholar,East,Female,Hindi,Theory,UG
+61785,118192,14785776,QPN328,B+,64.0,19.0,68.0,,88.0,Bachelor of Technology (Automobile Engineering),37.0,0.0,18.0,9.0,182,98,Day Scholar,East,Female,Hindi,Theory,UG
+61921,118192,14809776,QPN1974,E,66.0,,,24.0,96.0,Bachelor of Technology (Automobile Engineering),39.0,4.0,6.0,17.0,155,45,Day Scholar,North,Male,Regional,Theory,UG
+61922,118192,14809776,QPN1975,B,60.0,20.0,58.0,,93.0,Bachelor of Technology (Automobile Engineering),56.0,4.0,0.0,0.0,155,45,Day Scholar,North,Male,Regional,Theory,UG
+61923,118192,14809776,QPN385,A,58.0,29.0,61.0,,91.0,Bachelor of Technology (Automobile Engineering),28.0,3.0,9.0,18.0,155,45,Day Scholar,North,Male,Regional,Theory,UG
+61924,118192,14809776,QPN387,E,29.0,18.0,29.0,,68.0,Bachelor of Technology (Automobile Engineering),17.0,1.0,9.0,2.0,155,45,Day Scholar,North,Male,Regional,Theory,UG
+61925,118192,14809776,QPN396,B+,71.0,,,60.0,83.0,Bachelor of Technology (Automobile Engineering),68.0,2.0,1.0,0.0,155,45,Day Scholar,North,Male,Regional,Theory,UG
+61926,118192,14809776,QPN397,B+,65.0,28.0,66.0,,82.0,Bachelor of Technology (Automobile Engineering),26.0,33.0,1.0,5.0,155,45,Day Scholar,North,Male,Regional,Theory,UG
+61927,118192,14809776,QPN448,C,49.0,25.0,29.0,,91.0,Bachelor of Technology (Automobile Engineering),47.0,1.0,0.0,1.0,155,45,Day Scholar,North,Male,Regional,Theory,UG
+61928,118192,14809776,QPN462,A,78.0,,,72.0,86.0,Bachelor of Technology (Automobile Engineering),60.0,5.0,8.0,5.0,155,45,Day Scholar,North,Male,Regional,Theory,UG
+62300,318192,14879776,QPN110,A+,80.0,44.0,82.0,,98.0,Bachelor of Technology (Automobile Engineering),79.0,0.0,0.0,1.0,169,84,Day Scholar,West,Female,Regional,Theory,UG
+62301,318192,14879776,QPN111,A+,63.0,,,76.0,100.0,Bachelor of Technology (Automobile Engineering),41.0,21.0,1.0,0.0,169,84,Day Scholar,West,Female,Regional,Theory,UG
+62302,318192,14879776,QPN112,A+,49.0,30.0,65.0,,95.0,Bachelor of Technology (Automobile Engineering),34.0,4.0,10.0,1.0,169,84,Day Scholar,West,Female,Regional,Theory,UG
+62303,318192,14879776,QPN113,A+,70.0,35.0,80.0,,90.0,Bachelor of Technology (Automobile Engineering),14.0,36.0,10.0,10.0,169,84,Day Scholar,West,Female,Regional,Theory,UG
+62304,318192,14879776,QPN114,A+,85.0,,,78.0,96.0,Bachelor of Technology (Automobile Engineering),25.0,3.0,23.0,34.0,169,84,Day Scholar,West,Female,Regional,Theory,UG
+62305,318192,14879776,QPN115,A+,84.0,33.0,73.0,,98.0,Bachelor of Technology (Automobile Engineering),79.0,5.0,0.0,0.0,169,84,Day Scholar,West,Female,Regional,Theory,UG
+62306,318192,14879776,QPN116,A,85.0,18.0,63.0,,94.0,Bachelor of Technology (Automobile Engineering),56.0,15.0,10.0,4.0,169,84,Day Scholar,West,Female,Regional,Theory,UG
+62307,318192,14879776,QPN38,B+,64.0,17.0,49.0,,98.0,Bachelor of Technology (Automobile Engineering),51.0,4.0,1.0,8.0,169,84,Day Scholar,West,Female,Regional,Theory,UG
+62308,318192,14879776,QPN39,A,58.0,,,74.0,100.0,Bachelor of Technology (Automobile Engineering),34.0,8.0,9.0,7.0,169,84,Day Scholar,West,Female,Regional,Theory,UG
+62309,318192,14879776,QPN596,A+,84.0,9.0,72.0,,91.0,Bachelor of Technology (Automobile Engineering),83.0,1.0,0.0,0.0,169,84,Day Scholar,West,Female,Regional,Theory,UG
+62310,318192,14879776,QPN660,B+,82.0,28.0,58.0,,95.0,Bachelor of Technology (Automobile Engineering),11.0,8.0,2.0,61.0,169,84,Day Scholar,West,Female,Regional,Theory,UG
+62602,318192,14925776,QPN11,B,83.0,,36.0,,69.0,Bachelor of Technology (Automobile Engineering),26.0,26.0,18.0,13.0,180,97,Day Scholar,South,Female,English,Theory,UG
+62603,318192,14925776,QPN1146,B+,75.0,,,67.0,,Bachelor of Technology (Automobile Engineering),30.0,32.0,1.0,12.0,180,97,Day Scholar,South,Female,English,Theory,UG
+62604,318192,14925776,QPN8,D,52.0,17.0,32.0,,75.0,Bachelor of Technology (Automobile Engineering),31.0,20.0,1.0,0.0,180,97,Day Scholar,South,Female,English,Theory,UG
+62605,318192,14925776,QPN9,A,70.0,,,61.0,86.0,Bachelor of Technology (Automobile Engineering),26.0,30.0,6.0,8.0,180,97,Day Scholar,South,Female,English,Theory,UG
+63298,418192,15045776,QPN11,B,64.0,,50.0,,78.0,Bachelor of Technology (Automobile Engineering),37.0,22.0,2.0,3.0,163,51,Hostler,North,Female,Regional,Theory,UG
+63299,418192,15045776,QPN1146,A,74.0,,,82.0,,Bachelor of Technology (Automobile Engineering),46.0,4.0,24.0,0.0,163,51,Hostler,North,Female,Regional,Theory,UG
+63300,418192,15045776,QPN585,B,40.0,33.0,63.0,,70.0,Bachelor of Technology (Automobile Engineering),8.0,27.0,5.0,0.0,163,51,Hostler,North,Female,Regional,Theory,UG
+63301,418192,15045776,QPN586,B+,81.0,,,52.0,79.0,Bachelor of Technology (Automobile Engineering),72.0,8.0,1.0,0.0,163,51,Hostler,North,Female,Regional,Theory,UG
+64448,218192,15242776,QPN1327,C,55.0,8.0,56.0,,82.0,Bachelor of Technology (Automobile Engineering),2.0,19.0,2.0,32.0,161,47,Day Scholar,North,Female,Regional,Theory,UG
+64449,218192,15242776,QPN1328,B+,57.0,32.0,56.0,,91.0,Bachelor of Technology (Automobile Engineering),34.0,13.0,1.0,9.0,161,47,Day Scholar,North,Female,Regional,Theory,UG
+64450,218192,15242776,QPN1329,C,44.0,22.0,50.0,,79.0,Bachelor of Technology (Automobile Engineering),24.0,15.0,5.0,0.0,161,47,Day Scholar,North,Female,Regional,Theory,UG
+64451,218192,15242776,QPN1330,A,65.0,34.0,75.0,,85.0,Bachelor of Technology (Automobile Engineering),19.0,26.0,1.0,19.0,161,47,Day Scholar,North,Female,Regional,Theory,UG
+64452,218192,15242776,QPN1331,O,87.0,,,92.0,96.0,Bachelor of Technology (Automobile Engineering),86.0,1.0,0.0,0.0,161,47,Day Scholar,North,Female,Regional,Theory,UG
+64453,218192,15242776,QPN1332,B+,95.0,17.0,62.0,,80.0,Bachelor of Technology (Automobile Engineering),53.0,36.0,5.0,1.0,161,47,Day Scholar,North,Female,Regional,Theory,UG
+64454,218192,15242776,QPN28,A,60.0,34.0,75.0,,86.0,Bachelor of Technology (Automobile Engineering),48.0,9.0,2.0,1.0,161,47,Day Scholar,North,Female,Regional,Theory,UG
+64455,218192,15242776,QPN328,B+,95.0,18.0,56.0,,84.0,Bachelor of Technology (Automobile Engineering),47.0,6.0,36.0,6.0,161,47,Day Scholar,North,Female,Regional,Theory,UG
